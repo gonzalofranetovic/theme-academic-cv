@@ -3,7 +3,7 @@
     "path": "G:/Mi unidad/Paper Repositories/theme-academic-cv/content/authors/admin/_index.md",
     "project_path": "content/authors/admin/_index.md",
     "type": "markdown",
-    "hash": "993342139",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1700591220203.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "76,17",
-        "scrollLine": "62"
+        "cursorPosition": "5,25",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1700593097,
+    "lastKnownWriteTime": 1700593438,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1700593097952,
+    "last_content_update": 1700593438084,
     "read_only": false,
     "read_only_alternatives": []
 }

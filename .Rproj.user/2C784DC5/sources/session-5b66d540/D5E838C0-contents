@@ -3,7 +3,7 @@
 title: Gonzalo Franetovic
 
 # Name pronunciation (optional)
-name_pronunciation: Gonzalo Franetovic
+# name_pronunciation: Gonzalo Franetovic
 
 # Full name (for SEO)
 first_name: Gonzalo
