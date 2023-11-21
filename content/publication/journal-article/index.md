@@ -28,7 +28,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
@@ -94,7 +94,7 @@ abstract: This article constitutes the first application of the attitude network
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
