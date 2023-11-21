@@ -1,19 +1,17 @@
 {
-    "id": "4F72E933",
-    "path": "G:/Mi unidad/Paper Repositories/theme-academic-cv/content/terms.md",
-    "project_path": "content/terms.md",
+    "id": "00BDCB4A",
+    "path": "G:/Mi unidad/Paper Repositories/theme-academic-cv/content/publication/conference-paper/index.md",
+    "project_path": "content/publication/conference-paper/index.md",
     "type": "markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1700603130324.0,
+    "created": 1700605464249.0,
     "source_on_save": false,
-    "relative_order": 5,
+    "relative_order": 6,
     "properties": {
         "source_window_id": "",
-        "Source": "Source",
-        "cursorPosition": "15,0",
-        "scrollLine": "0"
+        "Source": "Source"
     },
     "folds": "",
     "lastKnownWriteTime": 1700591114,
