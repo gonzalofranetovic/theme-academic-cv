@@ -1,26 +1,26 @@
 {
-    "id": "005678ED",
-    "path": "G:/Mi unidad/Paper Repositories/theme-academic-cv/content/_index.md",
-    "project_path": "content/_index.md",
+    "id": "083ED120",
+    "path": "G:/Mi unidad/Paper Repositories/theme-academic-cv/content/event/_index.md",
+    "project_path": "content/event/_index.md",
     "type": "markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1700600980904.0,
+    "created": 1700603210259.0,
     "source_on_save": false,
     "relative_order": 6,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "126,28",
-        "scrollLine": "114"
+        "cursorPosition": "13,11",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1700602764,
+    "lastKnownWriteTime": 1700603247,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1700602764433,
+    "last_content_update": 1700603247848,
     "read_only": false,
     "read_only_alternatives": []
 }
