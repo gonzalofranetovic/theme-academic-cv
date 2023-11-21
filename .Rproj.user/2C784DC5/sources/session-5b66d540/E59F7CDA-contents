@@ -32,8 +32,8 @@ featured: true
 
 # links:
 # - name: ""
-url: "https://awari.pro-metrics.org/index.php/a/article/view/42"
-url_pdf: https://awari.pro-metrics.org/index.php/a/article/view/42/40
+# url: "https://awari.pro-metrics.org/index.php/a/article/view/42"
+url_pdf: http://awari.pro-metrics.org/index.php/a/article/view/42
 url_code: 'https://github.com/gonzalofranetovic/understanding_inequality_chile_network'
 
 # Featured image
