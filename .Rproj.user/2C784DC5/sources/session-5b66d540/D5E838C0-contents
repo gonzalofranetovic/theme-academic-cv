@@ -31,7 +31,12 @@ bio: Researching the link between social segregation and people's attitudes towa
 interests:
   - Inequality
   - Social stratification
+  - Social segregation
   - Quantitative methods
+  - Social network analysis
+  - Economic sociology
+
+  distributive justice, social stratification, quantitative research methods, social network analysis, economic sociology, and international comparative research
 
 # Education to show in About widget
 education:
@@ -84,6 +89,6 @@ social:
 highlight_name: true
 ---
 
-PhD student in Sociology and Methodology of Social Research at the University of Milan. BA and MA in Sociology from the Pontificia Universidad Católica de Chile. Currently, in my doctoral thesis project, I am analyzing the effect of socioeconomic heterogeneity of people's social environments on their attitudes towards inequality in contemporary societies. My research interests are related to distributive justice; social stratification; quantitative research methods; attitudes towards inequality, redistribution and welfare states; economic sociology; and international comparative research.
+I am a PhD student in Sociology and Methodology of Social Research at the University of Milan. I hold a BA and an MA in Sociology from the Pontificia Universidad Catolica de Chile. My main research interests are distributive justice, social stratification, quantitative research methods, social network analysis, economic sociology, and international comparative research. My work has been published in journals such as Frontiers in Sociology and the Spanish Journal of Sociology. With my doctoral thesis project, I analyze the extent to which the socioeconomic segregation of people's social environments affects their attitudes toward inequality across contemporary societies. In a first phase, I conduct comparative research to establish the main trends using international survey data. Secondly, using richer information, such as social network and geospatial data, I study the impact on how people perceive and explain the inequality of personal network segregation in Spain, neighborhood segregation in Chile, and school segregation in Italy.
 
 {style="text-align: justify;"}
