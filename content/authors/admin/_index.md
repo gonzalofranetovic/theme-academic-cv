@@ -87,6 +87,9 @@ social:
 highlight_name: true
 ---
 
-I am a PhD student in Sociology and Methodology of Social Research at the University of Milan. I hold a BA and an MA in Sociology from the Pontificia Universidad Catolica de Chile. My main research interests are distributive justice, social stratification, quantitative research methods, social network analysis, economic sociology, and international comparative research. My work has been published in journals such as Frontiers in Sociology and the Spanish Journal of Sociology. With my doctoral thesis project, I analyze the extent to which the socioeconomic segregation of people's social environments affects their attitudes toward inequality across contemporary societies.
+
+I am currently pursuing my Ph.D. in Sociology and Methodology of Social Research at the University of Milan, building upon my academic foundation with a Bachelor's and Master's degree in Sociology from the Pontificia Universidad Catolica de Chile. My diverse background includes serving as an undergraduate professor in sociological theory and quantitative methods, contributing to the academic development of students. Additionally, I have worked as a socioeconomic data analyst at the National Statistics Institute of Chile, where I honed my skills in interpreting and analyzing complex datasets.
+
+My research focus encompasses various intriguing areas, including distributive justice, social stratification, quantitative research methods, social network analysis, and economic sociology. I take pride in having my work featured in esteemed journals such as Frontiers in Sociology and the Spanish Journal of Sociology. My ongoing doctoral thesis delves into the nuanced exploration of how the socioeconomic segregation within individuals' social environments influences their attitudes toward inequality in contemporary societies. I am excited about the opportunity to contribute meaningfully to the understanding of these complex social dynamics.
 
 {style="text-align: justify;"}

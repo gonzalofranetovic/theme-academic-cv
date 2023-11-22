@@ -2,10 +2,7 @@
 title: "Preferences for Income Redistribution in Unequal Contexts: Changes in Latin America Between 2008 and 2018"
 authors:
 - admin
-- Juan
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- Juan-Carlos Castillo
 date: "2022-05-04"
 doi: "10.3389/fsoc.2022.806458"
 
