@@ -31,8 +31,8 @@ bio: Researching the link between social segregation and people's attitudes towa
 interests:
   - Subjective inequality
   - Social stratification
-  - Social network analysis
-  - Social segregation
+  - Social mobility
+  - Computational social sciencess
 
 # Education to show in About widget
 education:
@@ -61,7 +61,7 @@ social:
     link: https://twitter.com/g_franetovic
     label: Follow me on Twitter
     display:
-      header: true
+      header: false
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0003-0337-0739
@@ -90,6 +90,6 @@ I am a **PhD Candidate** in **Sociology and Social Research Methodology** at the
 
 My research agenda focuses on **comprehending how people understand social inequality**. In my ongoing doctoral dissertation I explore **how socioeconomic segregation within individuals' social environments influences their attitudes towards inequality**, with an emphasis on perceptions of inequality and preferences for redistribution. I am excited about the opportunity to contribute meaningfully to the understanding of these complex social dynamics. 
 
-Throughout my academic and professional journey, I have actively engaged in diverse roles within universities, research centers, and public institutions. My experience encompasses **undergraduate teaching, social research, and data analysis**, with a primary focus on **inequality, social mobility, social stratification, and quantitative methods**. I have served as a **research assistant** on various projects. In one instance, I analyzed the impact of specific university careers on social mobility patterns and elite reproduction in Chile. In another, I explored in depth the study of the theoretical approaches to distributive and procedural justice. Lastly, I investigated the determinants of preferences for redistribution in Latin America, utilizing a longitudinal and multilevel approach. 
+Throughout my academic and professional journey, I have actively engaged in diverse roles within universities, research centers, and public institutions. My experience encompasses **undergraduate teaching, social research, and data analysis**, with a primary focus on **subjective inequality, social stratification, social mobility, and computational social sciences**. I have served as a **research assistant** on various projects. In one instance, I analyzed the impact of specific university careers on social mobility patterns and elite reproduction in Chile. In another, I explored in depth the study of the theoretical approaches to distributive and procedural justice. Lastly, I investigated the determinants of preferences for redistribution in Latin America, utilizing a longitudinal and multilevel approach. 
 
 {style="text-align: justify;"}
