@@ -34,7 +34,7 @@ featured: true
 
 # links:
 # - name: ""
-url: https://doi.org/10.1016/j.eiar.2023.107044
+url: 'https://doi.org/10.1016/j.eiar.2023.107044'
 # url_pdf: https://recyt.fecyt.es/index.php/res/article/view/74858/61314
 #url_code: 'https://github.com/justicia-distributiva/preferences-redistribution-LA'
 
