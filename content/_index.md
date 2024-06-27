@@ -169,7 +169,7 @@ sections:
       contact_links:
         - icon: twitter
           icon_pack: fab
-          name: @g_franetovic
+          name: DM Me
           link: 'https://twitter.com/g_franetovic'
         # - icon: skype
         #   icon_pack: fab
