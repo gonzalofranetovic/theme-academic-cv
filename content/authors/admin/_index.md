@@ -86,10 +86,10 @@ highlight_name: true
 ---
 
 
-I am a PhD Candidate in Sociology and Social Research Methodology at the University of Milan. I obtained my B.A. and M.A. in Sociology from the Pontificia Universidad Católica de Chile. 
+I am a **PhD Candidate** in **Sociology and Social Research Methodology** at the **University of Milan**. I obtained my B.A. and M.A. in Sociology from the Pontificia Universidad Católica de Chile. 
 
-My research agenda focuses on comprehending how people understand social inequality. In my ongoing doctoral dissertation I explore how socioeconomic segregation within individuals' social environments influences their attitudes towards inequality, with an emphasis on perceptions of inequality and preferences for redistribution. I am excited about the opportunity to contribute meaningfully to the understanding of these complex social dynamics. 
+My research agenda focuses on **comprehending how people understand social inequality**. In my ongoing doctoral dissertation I explore **how socioeconomic segregation within individuals' social environments influences their attitudes towards inequality**, with an emphasis on perceptions of inequality and preferences for redistribution. I am excited about the opportunity to contribute meaningfully to the understanding of these complex social dynamics. 
 
-My background includes serving as an undergraduate professor in sociological theory and quantitative methods, contributing to the academic development of students. Additionally, I have worked as a socioeconomic data analyst at the National Statistics Institute of Chile, where I honed my skills in interpreting and analyzing complex datasets. I take pride in having my work featured in esteemed journals such as Frontiers in Sociology and the Spanish Journal of Sociology.
+Throughout my academic and professional journey, I have actively engaged in diverse roles within universities, research centers, and public institutions. My experience encompasses **undergraduate teaching, social research, and data analysis**, with a primary focus on **inequality, social mobility, social stratification, and quantitative methods**. I have served as a **research assistant** on various projects. In one instance, I analyzed the impact of specific university careers on social mobility patterns and elite reproduction in Chile. In another, I explored in depth the study of the theoretical approaches to distributive and procedural justice. Lastly, I investigated the determinants of preferences for redistribution in Latin America, utilizing a longitudinal and multilevel approach. 
 
 {style="text-align: justify;"}
