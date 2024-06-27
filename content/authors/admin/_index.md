@@ -86,8 +86,10 @@ highlight_name: true
 ---
 
 
-I am a PhD Candidate in Sociology and Social Research Methodology at the University of Milan. I obtained my B.A. and M.A. in Sociology from the Pontificia Universidad Católica de Chile. My research agenda focuses on comprehending how people understand social inequality. In my ongoing doctoral dissertation I explore how socioeconomic segregation within individuals' social environments influences their attitudes towards inequality, with an emphasis on perceptions of inequality and preferences for redistribution. I am excited about the opportunity to contribute meaningfully to the understanding of these complex social dynamics. 
+I am a PhD Candidate in Sociology and Social Research Methodology at the University of Milan. I obtained my B.A. and M.A. in Sociology from the Pontificia Universidad Católica de Chile. 
 
-My diverse background includes serving as an undergraduate professor in sociological theory and quantitative methods, contributing to the academic development of students. Additionally, I have worked as a socioeconomic data analyst at the National Statistics Institute of Chile, where I honed my skills in interpreting and analyzing complex datasets. I take pride in having my work featured in esteemed journals such as Frontiers in Sociology and the Spanish Journal of Sociology.
+My research agenda focuses on comprehending how people understand social inequality. In my ongoing doctoral dissertation I explore how socioeconomic segregation within individuals' social environments influences their attitudes towards inequality, with an emphasis on perceptions of inequality and preferences for redistribution. I am excited about the opportunity to contribute meaningfully to the understanding of these complex social dynamics. 
+
+My background includes serving as an undergraduate professor in sociological theory and quantitative methods, contributing to the academic development of students. Additionally, I have worked as a socioeconomic data analyst at the National Statistics Institute of Chile, where I honed my skills in interpreting and analyzing complex datasets. I take pride in having my work featured in esteemed journals such as Frontiers in Sociology and the Spanish Journal of Sociology.
 
 {style="text-align: justify;"}
