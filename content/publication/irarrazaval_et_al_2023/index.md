@@ -34,9 +34,9 @@ featured: true
 
 # links:
 # - name: ""
-url: https://www.sciencedirect.com/science/article/abs/pii/S0195925523000100
+url: "https://doi.org/10.1016/j.eiar.2023.107044"
 # url_pdf: https://recyt.fecyt.es/index.php/res/article/view/74858/61314
-# url_code: 'https://github.com/justicia-distributiva/preferences-redistribution-LA'
+#url_code: 'https://github.com/justicia-distributiva/preferences-redistribution-LA'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
