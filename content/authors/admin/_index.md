@@ -29,12 +29,10 @@ bio: Researching the link between social segregation and people's attitudes towa
 
 # Interests to show in About widget
 interests:
-  - Inequality
+  - Subjective inequality
   - Social stratification
-  - Social segregation
-  - Quantitative methods
   - Social network analysis
-  - Economic sociology
+  - Social segregation
 
 # Education to show in About widget
 education:
@@ -65,10 +63,10 @@ social:
     display:
       header: true
   - icon: orcid
-    icon_pack: fas
+    icon_pack: ai
     link: https://orcid.org/0000-0003-0337-0739
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=WrckwikAAAAJ
   - icon: github
     icon_pack: fab
@@ -79,9 +77,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
