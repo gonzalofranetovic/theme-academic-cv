@@ -56,7 +56,7 @@ sections:
   - block: collection
     id: projects
     content:
-      title: Publications
+      title: Projects
       filters:
         folders:
           - project
