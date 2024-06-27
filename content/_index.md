@@ -72,7 +72,7 @@ sections:
         folders:
           - event
     design:
-      columns: '1'
+      columns: '2'
       view: list
   # - block: experience
   #   content:
