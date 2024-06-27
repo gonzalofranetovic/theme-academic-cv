@@ -54,6 +54,17 @@ sections:
       columns: '2'
       view: card
   - block: collection
+    id: projects
+    content:
+      title: Publications
+      filters:
+        folders:
+          - project
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
+  - block: collection
     id: talks
     content:
       title: Conference Presentations
@@ -61,8 +72,8 @@ sections:
         folders:
           - event
     design:
-      columns: '2'
-      view: compact
+      columns: '1'
+      view: list
   # - block: experience
   #   content:
   #     title: Experience
@@ -125,11 +136,11 @@ sections:
   #     view: showcase
   #     # For Showcase view, flip alternate rows?
   #     flip_alt_rows: false
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+  # - block: tag_cloud
+  #   content:
+  #     title: Popular Topics
+  #   design:
+  #     columns: '2'
   - block: contact
     id: contact
     content:
