@@ -26,7 +26,7 @@ abstract: The presence of social conflicts in environmental impact assessment (E
 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary:  This article addresses this issue through a quantitative analysis of the projects submitted for EIA in Chile between 2009 and 2019, unpacking how the presence of social protest affects the qualification granted by public services and the time elapsed between when the project is presented and finally receives qualification.
 
 tags:
 - Source Themes
