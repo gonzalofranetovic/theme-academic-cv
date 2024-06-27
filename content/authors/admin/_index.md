@@ -32,7 +32,7 @@ interests:
   - Subjective inequality
   - Social stratification
   - Social mobility
-  - Computational social sciencess
+  - Computational social sciences
 
 # Education to show in About widget
 education:
