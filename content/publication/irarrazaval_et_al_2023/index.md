@@ -34,7 +34,7 @@ featured: true
 
 # links:
 # - name: ""
-url: "https://www.sciencedirect.com/science/article/abs/pii/S0195925523000100"
+url: https://www.sciencedirect.com/science/article/abs/pii/S0195925523000100
 # url_pdf: https://recyt.fecyt.es/index.php/res/article/view/74858/61314
 # url_code: 'https://github.com/justicia-distributiva/preferences-redistribution-LA'
 
