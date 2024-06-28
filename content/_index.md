@@ -71,42 +71,10 @@ sections:
       title: Conference Presentations
     design:
       columns: '2'
-      text: 
+      text: - 2024
+              - BSA Virtual Annual Conference 2024 - Crisis, Continuity and Change (Online). Franetovic, G. “Breaking Boundaries - Unraveling the Impact of Socioeconomic Heterogeneity on Attitudes towards Inequality in Contemporary Societies”.
+              - The 7th European Conference on Social Networks (Ljubljana, Slovenia). Franetovic, G. & Bertero, A. “Modelling, estimating, simulating - formalizing attitudes towards inequality as a complex network”.
 
-# 2024
-- BSA Virtual Annual Conference 2024 - Crisis, Continuity and Change (Online). Franetovic, G. “Breaking Boundaries - Unraveling the Impact of Socioeconomic Heterogeneity on Attitudes towards Inequality in Contemporary Societies”.
-- The 7th European Conference on Social Networks (Ljubljana, Slovenia). Franetovic, G. & Bertero, A. “Modelling, estimating, simulating - formalizing attitudes towards inequality as a complex network”.
-
-# 2023
-- XX ISA World Congress of Sociology (Melbourne, Australia). Franetovic, G. “Preferences for Income Redistribution in Unequal Contexts - Changes in Latin America between 2008 and 2018”.
-- The 10th Conference of the European Survey Research Association (Milan, Italy). Franetovic, G. “Experiencing heterogeneity - socioeconomic diversity in everyday interactions and attitudes towards inequality across contemporary societies” | Franetovic, G. & Bertero, A. “Overcoming the structuralist/individualist dichotomy - Inequality beliefs from a new network and comparative perspective” | Guglielmi, S. & Franetovic, G. “EU solidarity in troubling times - does cultural cleavage matter?”
-- The 6th Nordic Challenges Conference (Oslo, Norway). Franetovic, G “The citizen foundation of the welfare state - Attitudes towards inequality across Nordic societies”.
-- NASP – CCA Days 2023 - Frontiers of Methods in Social and Political Science (Turin, Italy). Franetovic, G. & Bertero, A. “Modelling, estimating, simulating - formalizing attitudes towards inequality as a complex network”.
-- ECPR Joint Sessions of Workshops (Toulouse, France). Bertero, A. & Franetovic, G. “Modelling, estimating, simulating - formalizing attitudes towards inequality as a complex network”.
-- VII Annual Conference of the Italian Society for Economic Sociology (SISEC) (Brescia, Italy). Bertero, A. & Franetovic, G. “Modelling, estimating, simulating - formalizing attitudes towards inequality as a complex network”.
-- I Chilean Social Network Conference CHISOCNET (Santiago, Chile). Franetovic, G. & Bertero, A. “¿Cómo las personas entienden la desigualdad en Chile? Un estudio de actitudes mediante análisis de redes”.
-- ISSP Social Inequality User Conference (Online). Franetovic, G. & Bertero, A. “Overcoming the structuralist/individualist dichotomy - Inequality beliefs from a new network and comparative perspective”.
-
-# 2022
-- EUSocialCit Winter School - Social Europe after the Pandemic - Rights and Policies (Milan, Italy). Franetovic, G. “Contextual distributive preferences - The role of the COVID-19 pandemic on individual beliefs towards inequality and welfare in Italy”.
-- ResPOnsE COVID-19 Workshop. Two years of COVID-19 in Italy - Values, attitudes, and behaviours in the pandemic period 2020-21 (Milan, Italy). Franetovic, G. “Contextual distributive preferences - The role of the COVID-19 pandemic on individual beliefs towards inequality and welfare in Italy”. | Bertero, A., Franetovic, G., Moroni, M. & Saccomanno, P. “Trust in science and risk perception - studying the adoption of anti-contagion behaviors in Italy during the COVID-19 pandemic”.
-
-# 2020
-- 115th ASA Annual Meeting. Power, inequality and resistance at work (San Francisco, USA - accepted). Mackenna, B. & Franetovic, G. “The Ties that Bind? Social Diversity, Interclass Contact, and Pro-Social Attitudes”.
-
-# 2019
-- LSE-COES 2019 International Conference. Inequalities, conflict and change - perspectives and cases from Latin America (London, England). Franetovic, G. & Castillo, J.C. “Preferences for redistribution, income and inequality in Latin America - an unresolved relation”.
-- V International Seminar Inequality and Social Mobility in Latin America (Santiago, Chile). Franetovic, G. & Castillo, J.C. “Redistributive preferences in unequal contexts. Changes in Latin America between 2008 and 2014”.
-
-# 2018
-- 10th Chilean Congress of Sociology Pre-Alas 2018 (Iquique, Chile). Franetovic, G. "Inequality and individual preferences - trends and determinants of the redistribution agreement in Chile". | Franetovic, G. “Less legitimate systems, less active citizens? Systemic trust and participation in protests within Chile and Latin America”.
-- V International Conference COES 2018 (Santiago, Chile). Franetovic, G. & Palma, J. "Neoliberal policies and income concentration - a longitudinal and comparative analysis in a Latin American context". Round table "Income concentration - causes and impact on inequality".
-- XXXVI International Congress of the Latin American Studies Association (LASA) (Barcelona, Spain – accepted). Franetovic, G. “Economic inequality and preferences for redistribution in Latin America - an unresolved relationship”.
-- 62nd Annual Meeting of the Comparative and International Education Society (CIES) (Mexico City, Mexico). Villalobos, C., Quaresma, M.L. & Franetovic, G. "Mapping the elite in the university space. A quantitative-multidimensional analysis of the Chilean case.".
-
-# 2017
-- XXXI Congress ALAS 2017 (Montevideo, Uruguay). Franetovic, G. "Redistributive preferences in Latin America - longitudinal and critical evidence of self-interest" in Castillo, J.C., Atria, J., Castro, F. & Franetovic, G. "Perceptions and legitimation of inequality - merit and institutions". | Villalobos, C., Quaresma, M.L. & Franetovic, G. "The production and reproduction of the Chilean university elite - portraits and profiles of institutions and students".
-- II Iberian Conference on the Sociology of Education (Córdoba, Spain). Quaresma, M.L., Villalobos, C & Franetovic, G. "The Chilean university elite and the processes of social reproduction - characterization of school institutions and students."
   
   # - block: collection
   #   id: talks
