@@ -90,4 +90,9 @@ highlight_name: true
 
 **My research agenda focuses on comprehending how people understand social inequality**. In my ongoing doctoral dissertation I explore how socioeconomic segregation within individuals' social environments influences their attitudes towards inequality, with an emphasis on perceptions of inequality and preferences for redistribution. I am excited about the opportunity to contribute meaningfully to the understanding of these complex social dynamics. 
 
+Here you can find part of my work: publications, work in progress, conferences, teaching and more.
+
+{{% staticref "uploads/resume.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+
+
 {style="text-align: justify;"}

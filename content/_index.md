@@ -53,17 +53,17 @@ sections:
     design:
       columns: '2'
       view: card
-  # - block: collection
-  #   id: projects
-  #   content:
-  #     title: Projects
-  #     filters:
-  #       folders:
-  #         - project
-  #       featured_only: true
-  #   design:
-  #     columns: '2'
-  #     view: card
+  - block: collection
+    id: projects
+    content:
+      title: Work in Progress
+      filters:
+        folders:
+          - project
+        featured_only: true
+    design:
+      columns: '1'
+      view: list
   # - block: collection
   #   id: talks
   #   content:
