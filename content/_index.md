@@ -62,7 +62,7 @@ sections:
           - project
         featured_only: true
     design:
-      columns: '1'
+      columns: '2'
       view: list
   # - block: collection
   #   id: talks
