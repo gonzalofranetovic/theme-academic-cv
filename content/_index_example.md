@@ -64,16 +64,16 @@ sections:
     design:
       columns: '2'
       view: list
-  # - block: collection
-  #   id: talks
-  #   content:
-  #     title: Conference Presentations
-  #     filters:
-  #       folders:
-  #         - event
-  #   design:
-  #     columns: '2'
-  #     view: list
+  - block: collection
+    id: talks
+    content:
+      title: Conference Presentations
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: showcase 
   # - block: experience
   #   content:
   #     title: Experience
