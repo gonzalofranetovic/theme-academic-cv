@@ -73,7 +73,7 @@ sections:
           - event
     design:
       columns: '2'
-      view: showcase 
+      view: card 
   # - block: experience
   #   content:
   #     title: Experience
