@@ -1,5 +1,5 @@
 ---
-title: Distributive justice and subjective social position - Does meritocracy justify income inequality?
+title: 2. (In press) Distributive justice and subjective social position - Does meritocracy justify income inequality?
 summary: An example of using the in-built project page.
 tags:
   - Source Themes

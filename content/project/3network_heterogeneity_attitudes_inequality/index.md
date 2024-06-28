@@ -1,5 +1,5 @@
 ---
-title: Social Segregation and Attitudes Toward Inequality - Unraveling the Influence of Socioeconomic Status and  Diversity of Social Networks Across Contemporary Societies
+title: 3. Social Segregation and Attitudes Toward Inequality - Unraveling the Influence of Socioeconomic Status and  Diversity of Social Networks Across Contemporary Societies
 summary: An example of using the in-built project page.
 tags:
   - Source Themes

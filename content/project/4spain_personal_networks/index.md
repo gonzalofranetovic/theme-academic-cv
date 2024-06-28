@@ -1,5 +1,5 @@
 ---
-title: Socioeconomic Segregation of Personal Networks and Attitudes towards Inequality in Spain
+title: 4. Socioeconomic Segregation of Personal Networks and Attitudes towards Inequality in Spain
 summary: An example of using the in-built project page.
 tags:
   - Source Themes

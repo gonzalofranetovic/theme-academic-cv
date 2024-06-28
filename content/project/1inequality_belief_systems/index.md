@@ -1,5 +1,5 @@
 ---
-title: Inequality belief systems - what they look like, how to study them, and why they matter (In press)
+title: 1. (In press) Inequality belief systems - what they look like, how to study them, and why they matter
 summary: An example of using the in-built project page.
 tags:
   - Source Themes
