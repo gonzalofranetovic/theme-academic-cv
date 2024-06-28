@@ -8,6 +8,7 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
+  color: red
   font: minimal
   font_size: M
 
@@ -35,7 +36,7 @@ header:
   navbar:
     enable: true
     align: l
-    show_logo: false
+    show_logo: true
     show_language: false
     show_day_night: true
     show_search: true
@@ -74,7 +75,7 @@ features:
     content_dir: content
     branch: main
   avatar:
-    gravatar: false
+    gravatar: true
     shape: circle
   comment:
     provider: ''
