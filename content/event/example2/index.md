@@ -16,10 +16,10 @@ date: '2030-06-01T13:00:00Z'
 all_day: true
 
 authors: [Gonzalo Franetovic & Arturo Bertero]
-tags: []
+tags: [2023]
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'

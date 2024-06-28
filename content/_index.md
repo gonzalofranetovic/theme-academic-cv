@@ -64,16 +64,16 @@ sections:
     design:
       columns: '2'
       view: list
-  - block: collection
-    id: talks
-    content:
-      title: Conference Presentations
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: card 
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Conference Presentations
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     columns: '2'
+  #     view: card 
   # - block: experience
   #   content:
   #     title: Experience
@@ -110,12 +110,12 @@ sections:
   #   design:
   #     columns: '2'
   - block: portfolio
-    id: projects2
+    id: talks
     content:
-      title: Projects
+      title: Conference Presentations
       filters:
         folders:
-          - project
+          - event
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
@@ -126,13 +126,19 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
-    design:
+        - name: 2024
+          tag: 2024
+        - name: 2023
+          tag: 2023
+        - name: 2022
+          tag: 2022
+        - name: 2021
+          tag: 2021 
+        - name: 2020
+          tag: 2020
+      design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
