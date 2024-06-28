@@ -68,9 +68,7 @@ sections:
     id: talks
     content:
       title: Conference Presentations
-      text: - 2024
-              - BSA Virtual Annual Conference 2024 - Crisis, Continuity and Change (Online). Franetovic, G. “Breaking Boundaries - Unraveling the Impact of Socioeconomic Heterogeneity on Attitudes towards Inequality in Contemporary Societies”.
-              - The 7th European Conference on Social Networks (Ljubljana, Slovenia). Franetovic, G. & Bertero, A. “Modelling, estimating, simulating - formalizing attitudes towards inequality as a complex network”.
+      text: Add your **Section 2** content here...
   # - block: collection
   #   id: talks
   #   content:
