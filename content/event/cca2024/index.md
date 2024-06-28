@@ -1,10 +1,10 @@
 ---
 title: CCA 2024
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: NASP-CCA Days Conference 2024
+event_url: https://www.nasp.eu/news-events-seminars/nasp-cca-days-26-28-june-2024.html
 
-location: Hugo Blox Builder HQ
+location: Collegio Carlo Alberto - Turin - Italy
 address:
   street: 450 Serra Mall
   city: Stanford
