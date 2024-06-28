@@ -64,7 +64,7 @@ sections:
     design:
       columns: '2'
       view: list
-  - block: collection
+  - block: markdown
     id: talks
     content:
       title: Conference Presentations
