@@ -2,7 +2,7 @@
 title: ISSP Social Inequality User Conference   
 
 event: ISSP Social Inequality User Conference 
-event_url: https://issp.org/about-issp/issp-user-conference/#:~:text=The%20conference%2C%20held%20on%20December,access%20the%20full%20program%20here.&text=The%201st%20ISSP%20User%20Conference,place%20on%20December%2012%2C%202022.
+event_url: https://issp.org/wp-content/uploads/2022/12/ISSP-1st-User-conference-extended-programme_021222-1.pdf
 
 location: Online
 
