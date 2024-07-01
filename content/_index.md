@@ -149,6 +149,17 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+  - block: collection
+    id: teaching
+    content:
+      title: Teaching
+      filters:
+        folders:
+          - teaching
+        featured_only: true
+    design:
+      columns: '2'
+      view: list
   # - block: tag_cloud
   #   content:
   #     title: Popular Topics
