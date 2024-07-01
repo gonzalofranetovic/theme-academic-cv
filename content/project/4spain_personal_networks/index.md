@@ -1,5 +1,9 @@
 ---
 title: 4. Homophily in personal networks and attitudes toward inequality in Spain
+authors:
+- admin
+- Miranda Lubbers
+
 summary: An example of using the in-built project page.
 tags:
   - Source Themes

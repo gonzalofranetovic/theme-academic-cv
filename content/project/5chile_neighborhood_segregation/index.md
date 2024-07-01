@@ -1,5 +1,8 @@
 ---
-title: 5. Inferential Distribution Spaces - Socioeconomic composition of neighborhoods and attitudes toward inequality in Chile
+title: 5. Inferential distributive spaces - Socioeconomic composition of neighborhoods and attitudes toward inequality in Chile
+authors:
+- admin
+
 summary: An example of using the in-built project page.
 tags:
   - Source Themes

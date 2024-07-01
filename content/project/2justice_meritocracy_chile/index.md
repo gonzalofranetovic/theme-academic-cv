@@ -1,5 +1,10 @@
 ---
 title: 2. (In press) Distributive justice and subjective social position - Does meritocracy justify income inequality?
+authors:
+- Oscar Mac-Clure
+- Emmanuelle Barozet
+- admin
+
 summary: An example of using the in-built project page.
 tags:
   - Source Themes

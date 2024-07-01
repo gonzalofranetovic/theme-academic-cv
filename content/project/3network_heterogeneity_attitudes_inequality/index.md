@@ -1,5 +1,8 @@
 ---
 title: 3. Social segregation and attitudes toward inequality - Unraveling the influence of socioeconomic status and diversity of social networks across contemporary societies
+authors:
+- admin
+
 summary: An example of using the in-built project page.
 tags:
   - Source Themes
