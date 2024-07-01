@@ -112,7 +112,7 @@ sections:
   - block: portfolio
     id: talks
     content:
-      title: Conference Presentations
+      title: Conferences
       filters:
         folders:
           - event
@@ -137,6 +137,12 @@ sections:
           tag: 2021 
         - name: 2020
           tag: 2020
+        - name: 2019
+          tag: 2019
+        - name: 2018
+          tag: 2018
+        - name: 2017
+          tag: 2017
       design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
