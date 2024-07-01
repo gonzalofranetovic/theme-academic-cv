@@ -32,7 +32,7 @@ featured: true
 
 # links:
 # - name: ""
-url: 'https://www.scielo.cl/scielo.php?pid=S0034-98872015000500007&script=sci_arttext&tlng=en'
+#   url: ""
 url_pdf: https://www.scielo.cl/pdf/rmc/v143n5/art07.pdf
 #url_code: 'https://github.com/justicia-distributiva/preferences-redistribution-LA'
 
