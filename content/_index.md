@@ -213,6 +213,6 @@ sections:
       #   netlify:
       #     # Enable CAPTCHA challenge to reduce spam?
       #     captcha: false
-  #   design:
-  #     columns: '2'
+    design:
+      columns: '1'
 ---
