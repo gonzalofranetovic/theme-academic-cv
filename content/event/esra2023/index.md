@@ -6,7 +6,7 @@ event_url: https://www.europeansurveyresearch.org/conference/milan-2023/
 
 location: Milan, Italy
 
-summary: EU solidarity in troubling times: Experiencing heterogeneity - socioeconomic diversity in everyday interactions and attitudes towards inequality across contemporary societies (Gonzalo Franetovic). Overcoming the structuralist/individualist dichotomy - Inequality beliefs from a new network and comparative perspective (Arturo Bertero). EU solidarity in troubling times - does cultural cleavage matter? (Simona Guglielmi). 
+summary: Experiencing heterogeneity - socioeconomic diversity in everyday interactions and attitudes towards inequality across contemporary societies (Gonzalo Franetovic). Overcoming the structuralist/individualist dichotomy - Inequality beliefs from a new network and comparative perspective (Arturo Bertero). EU solidarity in troubling times - does cultural cleavage matter? (Simona Guglielmi). 
 
 abstract: Experiencing heterogeneity - socioeconomic diversity in everyday interactions and attitudes towards inequality across contemporary societies (Gonzalo Franetovic). Overcoming the structuralist/individualist dichotomy - Inequality beliefs from a new network and comparative perspective (Arturo Bertero). EU solidarity in troubling times - does cultural cleavage matter? (Simona Guglielmi). 
 
