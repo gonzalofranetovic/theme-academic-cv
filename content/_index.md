@@ -159,7 +159,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: list
+      view: card
   # - block: tag_cloud
   #   content:
   #     title: Popular Topics
