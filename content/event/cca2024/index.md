@@ -4,16 +4,10 @@ title: NASP-CCA Days Conference 2024
 event: NASP-CCA Days Conference 2024
 event_url: https://www.nasp.eu/news-events-seminars/nasp-cca-days-26-28-june-2024.html
 
-location: Collegio Carlo Alberto
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Collegio Carlo Alberto, Turin, Italy
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Social Segregation and Attitudes Toward Inequality - Unraveling the Influence of Socioeconomic Status and Diversity of Social Networks Across Contemporary Societies.
+abstract: Social Segregation and Attitudes Toward Inequality - Unraveling the Influence of Socioeconomic Status and Diversity of Social Networks Across Contemporary Societies.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
