@@ -8,7 +8,6 @@ authors:
 publication: "Social Indicators Research"
 publication_short: "Social Indicators Research"
 
-summary: An example of using the in-built project page.
 tags:
   - Source Themes
 featured: true

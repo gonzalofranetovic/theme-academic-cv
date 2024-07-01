@@ -3,7 +3,6 @@ title: 3. Social segregation and attitudes toward inequality - Unraveling the in
 authors:
 - admin
 
-summary: An example of using the in-built project page.
 tags:
   - Source Themes
 featured: true

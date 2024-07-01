@@ -4,7 +4,6 @@ authors:
 - admin
 - Miranda Lubbers
 
-summary: An example of using the in-built project page.
 tags:
   - Source Themes
 featured: true

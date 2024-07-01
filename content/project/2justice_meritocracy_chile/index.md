@@ -5,7 +5,6 @@ authors:
 - Emmanuelle Barozet
 - admin
 
-summary: An example of using the in-built project page.
 tags:
   - Source Themes
 featured: true
