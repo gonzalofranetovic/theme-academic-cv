@@ -1,10 +1,10 @@
 ---
-title: Example Talk
+title: NASP-CCA Days Conference 2024
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: NASP-CCA Days Conference 2024
+event_url: https://www.nasp.eu/news-events-seminars/nasp-cca-days-26-28-june-2024.html
 
-location: Hugo Blox Builder HQ
+location: Collegio Carlo Alberto
 address:
   street: 450 Serra Mall
   city: Stanford
@@ -30,34 +30,5 @@ tags: [2024]
 # Is this a featured talk? (true/false)
 featured: true
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
-
-links:
-  # - icon: twitter
-  #   icon_pack: fab
-  #   name: Follow
-  #   url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-# projects:
-#   - example
-  
 ---
 
