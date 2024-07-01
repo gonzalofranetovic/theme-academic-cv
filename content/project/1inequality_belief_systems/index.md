@@ -1,5 +1,13 @@
 ---
 title: 1. (In press) Inequality belief systems - what they look like, how to study them, and why they matter
+authors:
+- Arturo Bertero
+- admin
+- Jonathan J.B. Mijs
+
+publication: "Social Indicators Research"
+publication_short: "Social Indicators Research"
+
 summary: An example of using the in-built project page.
 tags:
   - Source Themes
