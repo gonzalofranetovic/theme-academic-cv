@@ -70,7 +70,7 @@ social:
     link: https://scholar.google.com/citations?user=WrckwikAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://https://github.com/gonzalofranetovic
+    link: https://github.com/gonzalofranetovic
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/gonzalofranetovic/
