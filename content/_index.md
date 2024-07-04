@@ -109,18 +109,7 @@ sections:
   #         description: Taught electronic engineering and researched semiconductor physics.
   #   design:
   #     columns: '2'
-    - block: collection
-    id: teaching
-    content:
-      title: Teaching
-      filters:
-        folders:
-          - teaching
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-    - block: portfolio
+  - block: portfolio
     id: talks
     content:
       title: Conferences
@@ -160,6 +149,17 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+  - block: collection
+    id: teaching
+    content:
+      title: Teaching
+      filters:
+        folders:
+          - teaching
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
   # - block: tag_cloud
   #   content:
   #     title: Popular Topics
