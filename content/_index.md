@@ -64,6 +64,17 @@ sections:
     design:
       columns: '2'
       view: compact
+  - block: collection
+    id: teaching
+    content:
+      title: Teaching
+      filters:
+        folders:
+          - teaching
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
   - block: portfolio
     id: talks
     content:
@@ -104,17 +115,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: collection
-    id: teaching
-    content:
-      title: Teaching
-      filters:
-        folders:
-          - teaching
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
   - block: contact
     id: contact
     content:
