@@ -109,57 +109,57 @@ sections:
   #         description: Taught electronic engineering and researched semiconductor physics.
   #   design:
   #     columns: '2'
-    - block: collection
-    id: teaching
-    content:
-      title: Teaching
-      filters:
-        folders:
-          - teaching
-        featured_only: true
+  - block: collection
+  id: teaching
+  content:
+    title: Teaching
+    filters:
+      folders:
+        - teaching
+      featured_only: true
+  design:
+    columns: '2'
+    view: card
+  - block: portfolio
+  id: talks
+  content:
+    title: Conferences
+    filters:
+      folders:
+        - event
+      featured_only: true
+    # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+    default_button_index: 0
+    # Filter toolbar (optional).
+    # Add or remove as many filters (`filter_button` instances) as you like.
+    # To show all items, set `tag` to "*".
+    # To filter by a specific tag, set `tag` to an existing tag name.
+    # To remove the toolbar, delete the entire `filter_button` block.
+    buttons:
+      - name: All
+        tag: '*'
+      - name: 2024
+        tag: 2024
+      - name: 2023
+        tag: 2023
+      - name: 2022
+        tag: 2022
+      - name: 2021
+        tag: 2021 
+      - name: 2020
+        tag: 2020
+      - name: 2019
+        tag: 2019
+      - name: 2018
+        tag: 2018
+      - name: 2017
+        tag: 2017
     design:
-      columns: '2'
-      view: card
-    - block: portfolio
-    id: talks
-    content:
-      title: Conferences
-      filters:
-        folders:
-          - event
-        featured_only: true
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: 2024
-          tag: 2024
-        - name: 2023
-          tag: 2023
-        - name: 2022
-          tag: 2022
-        - name: 2021
-          tag: 2021 
-        - name: 2020
-          tag: 2020
-        - name: 2019
-          tag: 2019
-        - name: 2018
-          tag: 2018
-        - name: 2017
-          tag: 2017
-      design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
-      view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+    # Choose how many columns the section has. Valid values: '1' or '2'.
+    columns: '2'
+    view: showcase
+    # For Showcase view, flip alternate rows?
+    flip_alt_rows: false
   # - block: tag_cloud
   #   content:
   #     title: Popular Topics
