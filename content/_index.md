@@ -69,7 +69,7 @@ sections:
       title: Teaching
       filters:
         folders:
-          - teaching
+          - event1
         featured_only: true
               # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
