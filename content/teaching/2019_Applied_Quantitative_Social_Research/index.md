@@ -1,6 +1,6 @@
 ---
 title: "Applied Quantitative Social Research"
-subtitle: "Graduate Workshop"
+subtitle: "Undergraduate Assistant Professor"
 authors:
 - admin
 
@@ -12,7 +12,7 @@ date: "2019-04-13"
 
 
 tags:
-- Source Themes
+- Assistant_Professor
 featured: true
 
 # links:

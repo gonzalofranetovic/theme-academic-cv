@@ -1,6 +1,6 @@
 ---
 title: "Classical Sociology"
-subtitle: "Graduate Course"
+subtitle: "Undergraduate Assistant Professor"
 authors:
 - admin
 
@@ -12,7 +12,7 @@ date: "2019-03-01"
 
 
 tags:
-- Source Themes
+- Assistant_Professor
 featured: true
 
 # links:
