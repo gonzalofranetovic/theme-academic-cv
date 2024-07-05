@@ -1,10 +1,14 @@
 ---
 title: "Economic Sociology"
+
 subtitle: "Undergraduate Teaching Assistant"
 authors:
 - Jorge Atria
 - admin
 - Emilia Seissus
+
+event: Economic Sociology
+
 
 location: Pontificia Universidad Católica de Chile, Santiago, Chile
 
