@@ -8,6 +8,7 @@ authors:
 
 location: Pontificia Universidad Católica de Chile, Santiago, Chile
 
+summary: This course aims to - 1. Familiarize students with the concepts and interpretations that underpin the sociological reflection of the economic phenomenon. 2. Analyze the relationship between economy and society, and the different ways in which economic phenomena are linked to culture, institutions, networks, norms and social structure. 3. Analyze specific problems of Chilean society based on the concepts provided by economic sociology.
 abstract: This course aims to - 1. Familiarize students with the concepts and interpretations that underpin the sociological reflection of the economic phenomenon. 2. Analyze the relationship between economy and society, and the different ways in which economic phenomena are linked to culture, institutions, networks, norms and social structure. 3. Analyze specific problems of Chilean society based on the concepts provided by economic sociology.
 
 date: "2016-07-01"
