@@ -93,6 +93,8 @@ sections:
       view: card
       # For Showcase view, flip alternate rows?
       flip_alt_rows: true
+      sort_by: 'Date'
+      sort_ascending: true
   - block: portfolio
     id: talks
     content:
