@@ -32,7 +32,7 @@ featured: true
 
 # links:
 - name: "Website"
-  url: "url: https://convergencia.uaemex.mx/article/view/22258"
+  url: "https://convergencia.uaemex.mx/article/view/22258"
 url_pdf: https://convergencia.uaemex.mx/article/view/22258/17998
 #url_code: 'https://github.com/gonzalofranetovic/understanding_inequality_chile_network'
 
