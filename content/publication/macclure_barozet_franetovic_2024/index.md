@@ -5,7 +5,7 @@ authors:
 - Emmanuelle Barozet  
 - admin
 
-date: "2025-07-05"
+date: "2024-07-05"
 doi: "10.29101/crcs.v31i0.22258"
 
 # Schedule page publish date (NOT publication's date).

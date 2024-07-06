@@ -3,8 +3,11 @@ title: 5. Inferential distributive spaces - Socioeconomic composition of neighbo
 authors:
 - admin
 
+
+date: "2024-07-04"
+
 tags:
-  - Source Themes
+#  - Source Themes
 featured: true
 
 # Optional external URL for project (replaces project detail page).

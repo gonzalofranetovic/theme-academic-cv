@@ -3,8 +3,10 @@ title: 3. Social segregation and attitudes toward inequality - Unraveling the in
 authors:
 - admin
 
+date: "2024-07-02"
+
 tags:
-  - Source Themes
+#  - Source Themes
 featured: true
 
 # Optional external URL for project (replaces project detail page).
