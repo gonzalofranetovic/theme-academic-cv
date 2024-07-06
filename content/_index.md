@@ -61,6 +61,8 @@ sections:
         folders:
           - project
         featured_only: true
+      sort_by: 'Date'
+      sort_ascending: true
     design:
       columns: '2'
   - block: portfolio

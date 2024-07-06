@@ -1,5 +1,5 @@
 ---
-title: 1. (In press) Inequality belief systems - what they look like, how to study them, and why they matter
+title: (In press) Inequality belief systems - what they look like, how to study them, and why they matter
 authors:
 - Arturo Bertero
 - admin
