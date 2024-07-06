@@ -1,5 +1,5 @@
 ---
-title: 4. Homophily in personal networks and attitudes toward inequality in Spain
+title: 3. Homophily in personal networks and attitudes toward inequality in Spain
 authors:
 - admin
 - Miranda Lubbers
