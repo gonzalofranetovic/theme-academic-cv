@@ -28,7 +28,7 @@ summary: This article aims to identify individual, social and environmental fact
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""

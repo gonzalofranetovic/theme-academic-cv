@@ -30,7 +30,7 @@ summary:  This article addresses this issue through a quantitative analysis of t
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
