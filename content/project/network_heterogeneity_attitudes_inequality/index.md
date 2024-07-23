@@ -1,5 +1,5 @@
 ---
-title: Social segregation and attitudes toward inequality - Unraveling the influence of socioeconomic status and diversity of social networks across contemporary societies
+title: Social networks and attitudes towards inequality - Unraveling the influence of acquaintances’ socioeconomic diversity and status across contemporary societies
 authors:
 - admin
 
