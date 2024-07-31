@@ -86,7 +86,7 @@ highlight_name: true
 ---
 
 
-**I am a PhD Candidate in Sociology and Social Research Methodology at the University of Milan.** I obtained my B.A. and M.A. in Sociology from the Pontificia Universidad Católica de Chile. 
+**Hi! I am a PhD Candidate in Sociology and Social Research Methodology at the University of Milan.** I obtained my B.A. and M.A. in Sociology from the Pontificia Universidad Católica de Chile. 
 
 **My research agenda focuses on comprehending how people understand social inequality**. In my ongoing doctoral dissertation I explore how socioeconomic segregation within individuals' social environments influences their attitudes towards inequality, with an emphasis on perceptions of inequality and preferences for redistribution. I am excited about the opportunity to contribute meaningfully to the understanding of these complex social dynamics. 
 
