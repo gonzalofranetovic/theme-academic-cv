@@ -1,5 +1,6 @@
 ---
-title: Homophily in personal networks and attitudes toward inequality in Spain
+title: Who, but also how many - The influence of socioeconomic composition and size of personal networks on perceptions and beliefs about inequality
+
 authors:
 - admin
 - Miranda Lubbers
