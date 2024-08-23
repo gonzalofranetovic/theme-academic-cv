@@ -29,10 +29,11 @@ bio: Researching the link between social segregation and people's attitudes towa
 
 # Interests to show in About widget
 interests:
-  - Subjective inequality
-  - Social stratification
-  - Social mobility
-  - Computational social sciences
+  - Social Justice
+  - Inequality
+  - Social Stratification
+  - Social Mobility
+  - Social Networks
 
 # Education to show in About widget
 education:
@@ -86,9 +87,9 @@ highlight_name: true
 ---
 
 
-**Hi! I am a PhD Candidate in Sociology and Social Research Methodology at the University of Milan.** I obtained my B.A. and M.A. in Sociology from the Pontificia Universidad Católica de Chile. 
+**Hi! I am Gonzalo, a PhD Candidate in Sociology and Methodology of Social Research at the University of Milan.** 
 
-**My research agenda focuses on comprehending how people understand social inequality**. In my ongoing doctoral dissertation I explore how socioeconomic segregation within individuals' social environments influences their attitudes towards inequality, with an emphasis on perceptions of inequality and preferences for redistribution. I am excited about the opportunity to contribute meaningfully to the understanding of these complex social dynamics. 
+**My research focuses on understanding how people comprehend social inequality.** In my doctoral dissertation, I investigate how the socioeconomic composition of individuals' social environments influences their perceptions and beliefs about inequality. I emphasize the role of social networks and socializing institutions, such as neighborhoods, and differences based on social positions. Additionally, I am interested in exploring the structure of interrelations between different attitudes toward inequality. I am excited about the opportunity to contribute meaningfully to the understanding of these complex social dynamics.
 
 Here you can find part of my research: publications, work in progress, conferences, teaching and more.
 
