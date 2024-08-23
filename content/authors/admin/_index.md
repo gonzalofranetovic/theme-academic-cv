@@ -89,7 +89,7 @@ highlight_name: true
 
 **Hi! I am Gonzalo, a PhD Candidate in Sociology and Methodology of Social Research at the University of Milan.** 
 
-**My research focuses on understanding how people comprehend social inequality.** In my doctoral dissertation, I investigate how the socioeconomic composition of individuals' social environments influences their perceptions and beliefs about inequality. I emphasize the role of social networks and socializing institutions, such as neighborhoods, and differences based on social positions. Additionally, I am interested in exploring the structure of interrelations between different attitudes toward inequality. I am excited about the opportunity to contribute meaningfully to the understanding of these complex social dynamics.
+**My research focuses on understanding how people comprehend social inequality.** In my doctoral dissertation, I investigate how the socioeconomic composition of individuals' social environments influences their perceptions and beliefs about inequality. I emphasize the role of social networks and socializing institutions, such as neighborhoods, and differences based on social positions. Additionally, I am interested in exploring the structure of interrelations between different attitudes towards inequality. I am excited about the opportunity to contribute meaningfully to the understanding of these complex social dynamics.
 
 Here you can find part of my research: publications, work in progress, conferences, teaching and more.
 
