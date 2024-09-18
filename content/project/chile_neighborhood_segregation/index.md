@@ -1,5 +1,5 @@
 ---
-title: Inferential distributive spaces - Socioeconomic composition of neighborhoods and attitudes toward inequality in Chile
+title: A life course approach to attitudes towards inequality - The influence of school and neighborhood socioeconomic composition
 authors:
 - admin
 
