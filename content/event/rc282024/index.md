@@ -7,7 +7,7 @@ event_url: https://sites.brown.edu/rc28/
 location: Brown University, Providence, USA
 
 summary: Social Relationships as Distributive Inferences - Implications of Socioeconomic Segregation of Acquaintances on People's Attitudes Toward Inequality.
-abstract: SSocial Relationships as Distributive Inferences - Implications of Socioeconomic Segregation of Acquaintances on People's Attitudes Toward Inequality.
+abstract: Social Relationships as Distributive Inferences - Implications of Socioeconomic Segregation of Acquaintances on People's Attitudes Toward Inequality.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
