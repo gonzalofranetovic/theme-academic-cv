@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-- role: Research Fellow | PhD Candidate in Sociology and Methodology of Social Research
+- role: Research Fellow / PhD Candidate in Sociology and Methodology of Social Research
 
 # Organizations/Affiliations to show in About widget
 organizations:
