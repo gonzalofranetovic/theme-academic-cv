@@ -17,10 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Sociology and Methodology of Social Research
+role: Research Fellow \\ PhD Candidate in Sociology and Methodology of Social Research
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: University of Turin
+    url: https://www.unito.it/
   - name: University of Milan
     url: https://www.unimi.it/
 
@@ -87,7 +89,7 @@ highlight_name: true
 ---
 
 
-**Hi! I am Gonzalo, a PhD Candidate in Sociology and Methodology of Social Research at the University of Milan.** 
+**Hi! I am Gonzalo, a Research Fellow at the University of Turin and a PhD Candidate in Sociology and Methodology of Social Research at the University of Milan.** 
 
 **My research focuses on understanding how people comprehend social inequality.** In my doctoral dissertation, I investigate how the socioeconomic composition of individuals' social environments influences their perceptions and beliefs about inequality. I emphasize the role of social networks and socializing institutions, such as neighborhoods, and differences based on social positions. Additionally, I am interested in exploring the structure of interrelations between different attitudes towards inequality. I am excited about the opportunity to contribute meaningfully to the understanding of these complex social dynamics.
 
