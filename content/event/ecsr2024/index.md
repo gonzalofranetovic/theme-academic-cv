@@ -6,7 +6,7 @@ event_url: https://ecsr2024.com/
 
 location: Barcelona, Spain
 
-summary: Beyond Borders - Decoding How Socioeconomic Diversity Shapes Views on Inequality in Todays World.
+summary: Beyond Borders - Decoding How Socioeconomic Diversity Shapes Views on Inequality in Today\'s World.
 abstract: Beyond Borders - Decoding How Socioeconomic Diversity Shapes Views on Inequality in Todays World.
 
 # Talk start and end times.
