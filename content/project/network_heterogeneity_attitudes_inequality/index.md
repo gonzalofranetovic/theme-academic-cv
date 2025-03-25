@@ -1,5 +1,5 @@
 ---
-title: Social networks and attitudes towards inequality - Unraveling the influence of acquaintances’ socioeconomic diversity and status across contemporary societies
+title: From social networks to society - A cross-national analysis of how acquaintances’ diversity and status shape attitudes towards inequality
 authors:
 - admin
 
