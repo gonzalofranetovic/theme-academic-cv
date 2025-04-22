@@ -99,7 +99,7 @@ I have [published](/#publication) in [Social Indicators Research](https://doi.or
 
 I have gained [teaching](/#teaching) experience doing undergraduate courses on sociological theory, inequality, economic sociology, and quantitative methods at [Collegio Carlo Alberto](https://www.carloalberto.org/), [Pontificia Universidad Católica de Chile](https://www.uc.cl/), [Alberto Hurtado University](https://www.uahurtado.cl/), and [San Sebastian University](https://www.uss.cl/). I have also worked as a Socioeconomic Analyst at the [National Statistics Institute of Chile](https://www.ine.cl/).
 
-You can find more about my [publications](/#publications), [projects](/#projects), [teaching](/#teaching), and presentations here.
+You can find more about my [publications](/#publications), [work in progress](/#projects), [teaching](/#teaching), and presentations here.
 
 **Feel free to reach out if you’d like to connect, collaborate, or discuss research!**
 
