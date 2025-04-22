@@ -142,8 +142,7 @@ sections:
     content:
       title: Contact
       subtitle:
-      email: gonzalo.franetovic@unito.it
-      autolink: true
+      autolink: false
       form:
         provider: netlify
         netlify:
