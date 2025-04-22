@@ -103,7 +103,7 @@ You can find more about my [publications](/#publication), [projects](/#project),
 
 **Feel free to reach out if you’d like to connect, collaborate, or discuss research!**
 
-{{% staticref "uploads/resume.pdf" "newtab" %}}<strong>Download my CV</strong>{{% /staticref %}}.
+{{% staticref "uploads/FRANETOVIC_Gonzalo_CV.pdf" "newtab" %}}<strong>Download my CV</strong>{{% /staticref %}}
 
 
 {style="text-align: justify;"}
