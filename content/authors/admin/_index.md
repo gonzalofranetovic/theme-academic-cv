@@ -29,18 +29,18 @@ bio: Researching on how social inequalities are reproduced or challenged through
 
 # Interests to show in About widget
 interests:
-  - Social Justice
+  - Distributive justice
   - Inequality
-  - Social Stratification
-  - Social Mobility
-  - Social Networks
+  - Social stratification
+  - Social mobility
+  - Social networks
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Sociology and Methodology of Social Research
       institution: University of Milan
-      year: Currently
+      year: 2025
     - course: MA in Sociology
       institution: Pontificia Universidad Católica de Chile
       year: 2018
@@ -104,7 +104,6 @@ You can find more about my [publications](/#publication), [projects](/#project),
 **Feel free to reach out if you’d like to connect, collaborate, or discuss research!**
 
 {{% staticref "uploads/FRANETOVIC_Gonzalo_CV.pdf" "newtab" %}}<strong>Download my CV</strong>{{% /staticref %}}
-
 
 {style="text-align: justify;"}
 
