@@ -29,9 +29,9 @@ bio: Researching on how social inequalities are reproduced or challenged through
 
 # Interests to show in About widget
 interests:
-  - Distributive justice
   - Inequality
   - Social stratification
+  - Distributive justice
   - Social mobility
   - Social networks
 
