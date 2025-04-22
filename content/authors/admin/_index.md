@@ -87,9 +87,9 @@ highlight_name: true
 ---
 
 
-**Hi! I am Gonzalo Franetovic, a Postdoctoral Research Fellow at the [Department of Cultures, Politics and Society](https://www.unito.it/ricerca/dipartimenti/dipartimento-di-culture-politica-e-societa) at the [University of Turin](https://www.unito.it/).** I recently completed my PhD in Sociology and Methodology of Social Research at the [University of Milan](https://www.unimi.it/en), where I was affiliated with the [Department of Social and Political Sciences](https://www.unimi.it/en/education/social-and-political-sciences) and the [NASP - Network for the Advancement of Social and Political Studies](https://www.nasp.eu/).
+**Hi! I am Gonzalo Franetovic, a Postdoctoral Research Fellow at the [Department of Cultures, Politics and Society](https://www.socialsciences-cps.unito.it/do/home.pl) at the [University of Turin](https://en.unito.it/).** I recently completed my PhD in Sociology and Methodology of Social Research at the [University of Milan](https://www.unimi.it/en), where I was affiliated with the [Department of Social and Political Sciences](https://www.unimi.it/en/ugov/ou-structure/department-social-and-political-sciences) and the [NASP - Network for the Advancement of Social and Political Studies](https://www.nasp.eu/).
 
-I was previously a Visiting Fellow at the [University of Chile](https://www.uchile.cl/) ([Department of Sociology](https://sociologia.facso.uchile.cl/)) and at the [Autonomous University of Barcelona](https://www.uab.cat/) ([COALESCE Lab](https://coalesce.research.uab.cat/)), experiences that enriched my international collaborations. Also, I am affiliated with the [Research Lab on Social and Political Change (SPSTrend)](https://spstrend.org/) and the [Chilean Society for Social Network Science](https://www.redes-sociales.cl/).
+I was previously a Visiting Fellow at the [University of Chile](https://uchile.cl/) ([Department of Sociology](https://facso.uchile.cl/sociologia)) and at the [Autonomous University of Barcelona](https://www.uab.cat/) ([COALESCE Lab](http://coalesce-lab.com/en)), experiences that enriched my international collaborations. Also, I am affiliated with the [Research Lab on Social and Political Change (SPSTrend)](https://www.spstrend.it/) and the [Chilean Society for Social Network Science](https://www.chisocnet.org/).
 
 My research explores how social inequalities are reproduced or challenged through social relationships. I focus on both objective inequalities—such as social stratification—and subjective ones, meaning how people perceive and interpret disparities. My PhD thesis examined how the socioeconomic composition of individuals' social environments shaped their perceptions of inequality, with an emphasis on personal networks and socializing institutions like schools and neighborhoods. I addressed this through cross-country data, complex network methods, and a life course perspective, analyzing variations across social positions.
 
@@ -101,7 +101,8 @@ You can find more about my publications, projects, teaching, and presentations h
 
 **Feel free to reach out if you’d like to connect, collaborate, or discuss research!**
 
-{{% staticref "uploads/resume.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+<i class="fas fa-download" style="margin-right: 5px;"></i>{{% staticref "uploads/resume.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+
 
 
 {style="text-align: justify;"}
