@@ -103,8 +103,10 @@ You can find more about my publications, projects, teaching, and presentations h
 
 **Feel free to reach out if you’d like to connect, collaborate, or discuss research!**
 
-<i class="fas fa-download" style="margin-right: 5px;">{{% staticref "uploads/resume.pdf" "newtab" %}}Download my CV{{% /staticref %}}
-
+<p>
+  <i class="fas fa-download" style="margin-right: 5px;"></i>
+  {{% staticref "uploads/resume.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+</p>
 
 
 {style="text-align: justify;"}
