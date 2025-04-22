@@ -93,13 +93,13 @@ I was previously a Visiting Fellow at the [University of Chile](https://uchile.c
 
 My research explores how social inequalities are reproduced or challenged through social relationships. I focus on both social stratification (objective inequalities) and distributive justice research (subjective inequalities).
 
-In my doctoral dissertation, I examined how the socioeconomic composition of individuals' social environments shaped their perceptions of inequality, with an emphasis on personal networks and socializing institutions like schools and neighborhoods. I addressed this through cross-country data, complex network methods, and a life course perspective, analyzing variations across social positions.
+In my doctoral dissertation, I examined how the socioeconomic composition of individuals' social environments shapes their attitudes towards inequality, with an emphasis on personal networks and socializing institutions like schools and neighborhoods. I addressed this through cross-country data, complex network methods, and a life course perspective, analyzing variations across social positions.
 
 I have [published](/#publication) in [Social Indicators Research](https://doi.org/10.1007/s11205-024-03352-5), [Frontiers in Sociology](https://doi.org/10.3389/fsoc.2022.806458), and [Spanish Journal of Sociology](https://doi.org/10.22325/fes/res.2020.33), among others, addressing inequality, social mobility, and distributive justice through methods including network analysis, longitudinal and multilevel approaches, and comparative research.
 
 I have gained [teaching](/#teaching) experience doing undergraduate courses on sociological theory, inequality, economic sociology, and quantitative methods at [Collegio Carlo Alberto](https://www.carloalberto.org/), [Pontificia Universidad Católica de Chile](https://www.uc.cl/), [Alberto Hurtado University](https://www.uahurtado.cl/), and [San Sebastian University](https://www.uss.cl/). I have also worked as a Socioeconomic Analyst at the [National Statistics Institute of Chile](https://www.ine.cl/).
 
-You can find more about my [publications](/#publication), [projects](/#project), [teaching](/#teaching), and presentations here.
+You can find more about my [publications](/#publications), [projects](/#projects), [teaching](/#teaching), and presentations here.
 
 **Feel free to reach out if you’d like to connect, collaborate, or discuss research!**
 

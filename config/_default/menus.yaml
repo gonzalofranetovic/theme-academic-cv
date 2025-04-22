@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Publications
-    url: '#featured'
+    url: '#publications'
     weight: 20
   - name: Work in Progress
     url: '#projects'
@@ -19,11 +19,11 @@ main:
   - name: Conferences
     url: '#talks'
     weight: 50
-  - name: Contact
-    url: '#contact'
-    weight: 60
   - name: CV
     url: uploads/FRANETOVIC_Gonzalo_CV.pdf
+    weight: 60
+  - name: Contact
+    url: '#contact'
     weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
