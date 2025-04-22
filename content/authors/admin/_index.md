@@ -87,7 +87,7 @@ highlight_name: true
 ---
 
 
-I am a Postdoctoral Research Fellow at the [Department of Cultures, Politics and Society](https://www.socialsciences-cps.unito.it/do/home.pl) at the [University of Turin](https://en.unito.it/). I recently completed my PhD in Sociology and Methodology of Social Research at the [University of Milan](https://www.unimi.it/en), where I was affiliated with the [Department of Social and Political Sciences](https://www.unimi.it/en/ugov/ou-structure/department-social-and-political-sciences) and the [NASP - Network for the Advancement of Social and Political Studies](https://www.nasp.eu/).
+I am Gonzalo, a Postdoctoral Research Fellow at the [Department of Cultures, Politics and Society](https://www.socialsciences-cps.unito.it/do/home.pl) at the [University of Turin](https://en.unito.it/). I recently completed my PhD in Sociology and Methodology of Social Research at the [University of Milan](https://www.unimi.it/en), where I was affiliated with the [Department of Social and Political Sciences](https://www.unimi.it/en/ugov/ou-structure/department-social-and-political-sciences) and the [NASP - Network for the Advancement of Social and Political Studies](https://www.nasp.eu/).
 
 I was previously a Visiting Fellow at the [University of Chile](https://uchile.cl/) ([Department of Sociology](https://facso.uchile.cl/sociologia)) and at the [Autonomous University of Barcelona](https://www.uab.cat/) ([COALESCE Lab](http://coalesce-lab.com/en)), experiences that enriched my international collaborations. Also, I am affiliated with the [Research Lab on Social and Political Change (SPSTrend)](https://www.spstrend.it/) and the [Chilean Society for Social Network Science](https://www.chisocnet.org/).
 
