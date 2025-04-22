@@ -91,9 +91,11 @@ highlight_name: true
 
 I was previously a Visiting Fellow at the [University of Chile](https://uchile.cl/) ([Department of Sociology](https://facso.uchile.cl/sociologia)) and at the [Autonomous University of Barcelona](https://www.uab.cat/) ([COALESCE Lab](http://coalesce-lab.com/en)), experiences that enriched my international collaborations. Also, I am affiliated with the [Research Lab on Social and Political Change (SPSTrend)](https://www.spstrend.it/) and the [Chilean Society for Social Network Science](https://www.chisocnet.org/).
 
-My research explores how social inequalities are reproduced or challenged through social relationships. I focus on both objective inequalities—such as social stratification—and subjective ones, meaning how people perceive and interpret disparities. My PhD thesis examined how the socioeconomic composition of individuals' social environments shaped their perceptions of inequality, with an emphasis on personal networks and socializing institutions like schools and neighborhoods. I addressed this through cross-country data, complex network methods, and a life course perspective, analyzing variations across social positions.
+**My research explores how social inequalities are reproduced or challenged through social relationships. I focus on both objective inequalities—such as social stratification—and subjective ones, meaning how people perceive and interpret disparities.**
 
-I have published in *[Social Indicators Research](https://doi.org/10.1007/s11205-024-03352-5)*, *[Frontiers in Sociology](https://doi.org/10.3389/fsoc.2022.806458)*, and *[Spanish Journal of Sociology](https://doi.org/10.22325/fes/res.2020.33)*, among others, addressing inequality, social mobility, and distributive justice through methods including network analysis, longitudinal and multilevel approaches, and comparative research.
+In my doctoral dissertation, I examined how the socioeconomic composition of individuals' social environments shaped their perceptions of inequality, with an emphasis on personal networks and socializing institutions like schools and neighborhoods. I addressed this through cross-country data, complex network methods, and a life course perspective, analyzing variations across social positions.
+
+I have published in [Social Indicators Research](https://doi.org/10.1007/s11205-024-03352-5), [Frontiers in Sociology](https://doi.org/10.3389/fsoc.2022.806458), and [Spanish Journal of Sociology](https://doi.org/10.22325/fes/res.2020.33), among others, addressing inequality, social mobility, and distributive justice through methods including network analysis, longitudinal and multilevel approaches, and comparative research.
 
 My teaching experience includes undergraduate courses on sociological theory, inequality, economic sociology, and quantitative methods at [Collegio Carlo Alberto](https://www.carloalberto.org/), [Pontificia Universidad Católica de Chile](https://www.uc.cl/), [Alberto Hurtado University](https://www.uahurtado.cl/), and [San Sebastian University](https://www.uss.cl/). I have also worked as a Socioeconomic Analyst at the [National Statistics Institute of Chile](https://www.ine.cl/).
 
@@ -101,7 +103,7 @@ You can find more about my publications, projects, teaching, and presentations h
 
 **Feel free to reach out if you’d like to connect, collaborate, or discuss research!**
 
-<i class="fas fa-download" style="margin-right: 5px;"></i>{{% staticref "uploads/resume.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+<i class="fas fa-download" style="margin-right: 5px;">{{% staticref "uploads/resume.pdf" "newtab" %}}Download my CV{{% /staticref %}}
 
 
 
