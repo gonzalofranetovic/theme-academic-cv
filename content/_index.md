@@ -137,23 +137,36 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      # Contact (add or remove contact options as necessary)
-      email: gonzalo.franetovic@unimi.it
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      # form:
-      #   provider: netlify
-      #   formspree:
-      #     id:
-      #   netlify:
-      #     # Enable CAPTCHA challenge to reduce spam?
-      #     captcha: false
-    design:
-      columns: '2'
+    - block: contact
+      id: contact
+      content:
+        title: Contact
+        subtitle:
+        email: gonzalo.franetovic@gmail.com
+        autolink: true
+        form:
+          provider: formsubmit
+          formsubmit:
+            action: "https://formsubmit.co/gonzalo.franetovic@gmail.com"
+      design:
+        columns: '2'
+  # - block: contact
+  #   id: contact
+  #   content:
+  #     title: Contact
+  #     subtitle:
+  #     # Contact (add or remove contact options as necessary)
+  #     email: gonzalo.franetovic@unimi.it
+  #     # Automatically link email and phone or display as text?
+  #     autolink: true
+  #     # Email form provider
+  #     # form:
+  #     #   provider: netlify
+  #     #   formspree:
+  #     #     id:
+  #     #   netlify:
+  #     #     # Enable CAPTCHA challenge to reduce spam?
+  #     #     captcha: false
+  #   design:
+  #     columns: '2'
 ---

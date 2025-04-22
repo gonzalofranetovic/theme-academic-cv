@@ -87,26 +87,24 @@ highlight_name: true
 ---
 
 
-**Hi! I am Gonzalo Franetovic, a Postdoctoral Research Fellow at the [Department of Cultures, Politics and Society](https://www.socialsciences-cps.unito.it/do/home.pl) at the [University of Turin](https://en.unito.it/).** I recently completed my PhD in Sociology and Methodology of Social Research at the [University of Milan](https://www.unimi.it/en), where I was affiliated with the [Department of Social and Political Sciences](https://www.unimi.it/en/ugov/ou-structure/department-social-and-political-sciences) and the [NASP - Network for the Advancement of Social and Political Studies](https://www.nasp.eu/).
+I am a Postdoctoral Research Fellow at the [Department of Cultures, Politics and Society](https://www.socialsciences-cps.unito.it/do/home.pl) at the [University of Turin](https://en.unito.it/). I recently completed my PhD in Sociology and Methodology of Social Research at the [University of Milan](https://www.unimi.it/en), where I was affiliated with the [Department of Social and Political Sciences](https://www.unimi.it/en/ugov/ou-structure/department-social-and-political-sciences) and the [NASP - Network for the Advancement of Social and Political Studies](https://www.nasp.eu/).
 
 I was previously a Visiting Fellow at the [University of Chile](https://uchile.cl/) ([Department of Sociology](https://facso.uchile.cl/sociologia)) and at the [Autonomous University of Barcelona](https://www.uab.cat/) ([COALESCE Lab](http://coalesce-lab.com/en)), experiences that enriched my international collaborations. Also, I am affiliated with the [Research Lab on Social and Political Change (SPSTrend)](https://www.spstrend.it/) and the [Chilean Society for Social Network Science](https://www.chisocnet.org/).
 
-**My research explores how social inequalities are reproduced or challenged through social relationships. I focus on both objective inequalities—such as social stratification—and subjective ones, meaning how people perceive and interpret disparities.**
+**My research explores how social inequalities are reproduced or challenged through social relationships.** I focus on both **social stratification** (objective inequalities) and **distributive justice research** (subjective inequalities).
 
 In my doctoral dissertation, I examined how the socioeconomic composition of individuals' social environments shaped their perceptions of inequality, with an emphasis on personal networks and socializing institutions like schools and neighborhoods. I addressed this through cross-country data, complex network methods, and a life course perspective, analyzing variations across social positions.
 
-I have published in [Social Indicators Research](https://doi.org/10.1007/s11205-024-03352-5), [Frontiers in Sociology](https://doi.org/10.3389/fsoc.2022.806458), and [Spanish Journal of Sociology](https://doi.org/10.22325/fes/res.2020.33), among others, addressing inequality, social mobility, and distributive justice through methods including network analysis, longitudinal and multilevel approaches, and comparative research.
+I have [published](/#publication) in [Social Indicators Research](https://doi.org/10.1007/s11205-024-03352-5), [Frontiers in Sociology](https://doi.org/10.3389/fsoc.2022.806458), and [Spanish Journal of Sociology](https://doi.org/10.22325/fes/res.2020.33), among others, addressing inequality, social mobility, and distributive justice through methods including network analysis, longitudinal and multilevel approaches, and comparative research.
 
-My teaching experience includes undergraduate courses on sociological theory, inequality, economic sociology, and quantitative methods at [Collegio Carlo Alberto](https://www.carloalberto.org/), [Pontificia Universidad Católica de Chile](https://www.uc.cl/), [Alberto Hurtado University](https://www.uahurtado.cl/), and [San Sebastian University](https://www.uss.cl/). I have also worked as a Socioeconomic Analyst at the [National Statistics Institute of Chile](https://www.ine.cl/).
+I have gained [teaching](/#teaching) experience doing undergraduate courses on sociological theory, inequality, economic sociology, and quantitative methods at [Collegio Carlo Alberto](https://www.carloalberto.org/), [Pontificia Universidad Católica de Chile](https://www.uc.cl/), [Alberto Hurtado University](https://www.uahurtado.cl/), and [San Sebastian University](https://www.uss.cl/). I have also worked as a Socioeconomic Analyst at the [National Statistics Institute of Chile](https://www.ine.cl/).
 
-You can find more about my publications, projects, teaching, and presentations here.
+You can find more about my [publications](/#publication), [projects](/#project), [teaching](/#teaching), and presentations here.
 
 **Feel free to reach out if you’d like to connect, collaborate, or discuss research!**
 
-<p>
-  <i class="fas fa-download" style="margin-right: 5px;"></i>
-  {{% staticref "uploads/resume.pdf" "newtab" %}}Download my CV{{% /staticref %}}
-</p>
+{{% staticref "uploads/resume.pdf" "newtab" %}}<strong>Download my CV</strong>{{% /staticref %}}.
 
 
 {style="text-align: justify;"}
+
