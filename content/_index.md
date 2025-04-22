@@ -137,19 +137,19 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-    - block: contact
-      id: contact
-      content:
-        title: Contact
-        subtitle:
-        email: gonzalo.franetovic@gmail.com
-        autolink: true
-        form:
-          provider: formsubmit
-          formsubmit:
-            action: "https://formsubmit.co/gonzalo.franetovic@gmail.com"
-      design:
-        columns: '2'
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      subtitle:
+      email: gonzalo.franetovic@unito.it
+      autolink: true
+      form:
+        provider: netlify
+        netlify:
+          captcha: false
+    design:
+      columns: '2'
   # - block: contact
   #   id: contact
   #   content:
