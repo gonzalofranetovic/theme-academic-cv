@@ -30,11 +30,10 @@ tags:
 - Source Themes
 featured: true
 
-# links:
-name: "Website"
-url: "https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1405-14352024000100009&lng=es&nrm=iso&tlng=en""
-url_pdf: https://www.scielo.org.mx/pdf/conver/v31/2448-5799-conver-31-e22258-en.pdf
-#url_code: 'https://github.com/gonzalofranetovic/understanding_inequality_chile_network'
+links:
+  - name: Website
+    url: "https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1405-14352024000100009&lng=es&nrm=iso&tlng=en"
+url_pdf: "https://www.scielo.org.mx/pdf/conver/v31/2448-5799-conver-31-e22258-en.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
