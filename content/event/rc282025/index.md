@@ -6,7 +6,7 @@ event_url: https://rc28milan2025.com/
 
 location: Milan, Italy
 
-summary: "Different Paths, Different Attitudes: How the Socioeconomic Composition of Life Course Social Environments Shapes Perceptions of Inequality and Egalitarian Beliefs""
+summary: "Different Paths, Different Attitudes: How the Socioeconomic Composition of Life Course Social Environments Shapes Perceptions of Inequality and Egalitarian Beliefs"
 abstract: "Different Paths, Different Attitudes: How the Socioeconomic Composition of Life Course Social Environments Shapes Perceptions of Inequality and Egalitarian Beliefs"
 
 # Talk start and end times.
