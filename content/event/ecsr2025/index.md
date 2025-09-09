@@ -1,7 +1,7 @@
 ---
-title: "ECSR Annual Conference 2024"
+title: "ECSR Annual Conference 2025"
 
-event: "ECSR Annual Conference 2024"
+event: "ECSR Annual Conference 2025"
 event_url: "https://uni-koeln.converia.de/frontend/index.php?sub=83"
 
 location: "Cologne, Germany"
