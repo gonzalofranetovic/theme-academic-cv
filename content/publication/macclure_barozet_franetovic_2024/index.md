@@ -32,8 +32,8 @@ featured: true
 
 # links:
 #- name: "Website"
-#  url: "https://convergencia.uaemex.mx/article/view/22258"
-url_pdf: https://convergencia.uaemex.mx/article/view/22258/18240
+# url: https://convergencia.uaemex.mx/article/view/22258
+url_pdf: https://www.scielo.org.mx/pdf/conver/v31/2448-5799-conver-31-e22258-en.pdf
 #url_code: 'https://github.com/gonzalofranetovic/understanding_inequality_chile_network'
 
 # Featured image
