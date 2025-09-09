@@ -46,6 +46,7 @@ sections:
     id: publications
     content:
       title: Publications
+      count: 6
       filters:
         folders:
           - publication
