@@ -116,6 +116,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
+        - name: 2025
+          tag: 2025
         - name: 2024
           tag: 2024
         - name: 2023
