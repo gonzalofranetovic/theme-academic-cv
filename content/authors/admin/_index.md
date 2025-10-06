@@ -21,11 +21,11 @@ role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Turin
-    url: https://www.unito.it/
+  - name: Universitat Autònoma de Barcelona
+    url: https://www.uab.cat/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Researching on how social inequalities are reproduced or challenged through social relationships.
+bio: Researching on how social inequalities are reproduced, reinforced, or contested through social relationships.
 
 # Interests to show in About widget
 interests:
@@ -86,12 +86,13 @@ social:
 highlight_name: true
 ---
 
+I am Gonzalo Franetovic, a **Postdoctoral Research Fellow** at the **[Laboratory for the Computational Analysis of Egonetworks, Social Cohesion, and Exclusion (COALESCE Lab)](http://coalesce-lab.com/en)** at the **[Universitat Autònoma de Barcelona](https://www.uab.cat/)**.
 
-I am Gonzalo, a Postdoctoral Research Fellow at the **[Department of Cultures, Politics and Society](https://www.socialsciences-cps.unito.it/do/home.pl)** at the **[University of Turin](https://en.unito.it/)**. I recently completed my PhD in Sociology and Methodology of Social Research at the **[University of Milan](https://www.unimi.it/en)**, where I was affiliated with the **[Department of Social and Political Sciences](https://www.unimi.it/en/ugov/ou-structure/department-social-and-political-sciences)** and the **[NASP - Network for the Advancement of Social and Political Studies](https://www.nasp.eu/)**.
+I recently completed my **PhD in Sociology and Methodology of Social Research** at the **[University of Milan](https://www.unimi.it/en)**, where I was affiliated with the **[Department of Social and Political Sciences](https://www.unimi.it/en/ugov/ou-structure/department-social-and-political-sciences)** and the **[NASP – Network for the Advancement of Social and Political Studies](https://www.nasp.eu/)**.
 
-I was previously a Visiting Fellow at the **[Autonomous University of Barcelona](https://www.uab.cat/)** (**[COALESCE Lab](http://coalesce-lab.com/en)**) and at the **[University of Chile](https://uchile.cl/)** (**[Department of Sociology](https://facso.uchile.cl/sociologia)**). Also, I am affiliated with the **[Research Lab on Social and Political Change (SPSTrend)](https://www.spstrend.it/)** and the **[Chilean Society for Social Network Science](https://www.chisocnet.org/)**.
+Previously, I was a **Postdoctoral Research Fellow** at the **[University of Turin](https://en.unito.it/)**, and a **Visiting Fellow** at both the **[Universitat Autònoma de Barcelona](https://www.uab.cat/)** and the **[University of Chile](https://uchile.cl/)**. I am also affiliated with the **[Research Lab on Social and Political Change (SPSTrend)](https://www.spstrend.it/)** and the **[Chilean Society for Social Network Science](https://www.chisocnet.org/)**.
 
-My research examines how people understand social inequalities and how these are reproduced, reinforced, or contested through social relationships. I focus on both social stratification (objective inequalities) and distributive justice research (subjective inequalities).
+**My research examines how people understand social inequalities and how these are reproduced, reinforced, or contested through social relationships.** I focus on both social stratification (objective inequalities) and distributive justice research (subjective inequalities).
 
 In my doctoral dissertation, I examined how the socioeconomic composition of individuals' social environments shapes their attitudes towards inequality, with an emphasis on personal networks and socializing institutions like schools and neighborhoods. I addressed this through cross-country data, complex network methods, and a life course perspective, analyzing variations across social positions.
 
