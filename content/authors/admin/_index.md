@@ -86,7 +86,7 @@ social:
 highlight_name: true
 ---
 
-I am Gonzalo Franetovic, a **Postdoctoral Research Fellow** at the **[Laboratory for the Computational Analysis of Egonetworks, Social Cohesion, and Exclusion (COALESCE Lab)](http://coalesce-lab.com/en)** at the **[Universitat Autònoma de Barcelona](https://www.uab.cat/)**.
+I am Gonzalo, a **Postdoctoral Research Fellow** at the **[Laboratory for the Computational Analysis of Egonetworks, Social Cohesion, and Exclusion (COALESCE Lab)](http://coalesce-lab.com/en)** at the **[Universitat Autònoma de Barcelona](https://www.uab.cat/)**.
 
 I recently completed my **PhD in Sociology and Methodology of Social Research** at the **[University of Milan](https://www.unimi.it/en)**, where I was affiliated with the **[Department of Social and Political Sciences](https://www.unimi.it/en/ugov/ou-structure/department-social-and-political-sciences)** and the **[NASP – Network for the Advancement of Social and Political Studies](https://www.nasp.eu/)**.
 
