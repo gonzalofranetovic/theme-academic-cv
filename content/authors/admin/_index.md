@@ -86,11 +86,11 @@ social:
 highlight_name: true
 ---
 
-I am Gonzalo, a **Postdoctoral Research Fellow** at the **[Laboratory for the Computational Analysis of Egonetworks, Social Cohesion, and Exclusion (COALESCE Lab)](http://coalesce-lab.com/en)** at the **[Universitat Autònoma de Barcelona](https://www.uab.cat/)**.
+I am Gonzalo, a **Postdoctoral Researcher** at the **[Laboratory for the Computational Analysis of Egonetworks, Social Cohesion, and Exclusion (COALESCE Lab)](http://coalesce-lab.com/en)** at the **[Universitat Autònoma de Barcelona](https://www.uab.cat/)**.
 
 I recently completed my **PhD in Sociology and Methodology of Social Research** at the **[University of Milan](https://www.unimi.it/en)**, where I was affiliated with the **[Department of Social and Political Sciences](https://www.unimi.it/en/ugov/ou-structure/department-social-and-political-sciences)** and the **[NASP – Network for the Advancement of Social and Political Studies](https://www.nasp.eu/)**.
 
-Previously, I was a **Postdoctoral Research Fellow** at the **[University of Turin](https://en.unito.it/)**, and a **Visiting Fellow** at both the **[Universitat Autònoma de Barcelona](https://www.uab.cat/)** and the **[University of Chile](https://uchile.cl/)**. I am also affiliated with the **[Research Lab on Social and Political Change (SPSTrend)](https://www.spstrend.it/)** and the **[Chilean Society for Social Network Science](https://www.chisocnet.org/)**.
+Previously, I was a **Postdoctoral Researcher** at the **[University of Turin](https://en.unito.it/)**, and a **Visiting Fellow** at both the **[Universitat Autònoma de Barcelona](https://www.uab.cat/)** and the **[University of Chile](https://uchile.cl/)**. I am also affiliated with the **[Research Lab on Social and Political Change (SPSTrend)](https://www.spstrend.it/)** and the **[Chilean Society for Social Network Science](https://www.chisocnet.org/)**.
 
 **My research examines how people understand social inequalities and how these are reproduced, reinforced, or contested through social relationships.** I focus on both social stratification (objective inequalities) and distributive justice research (subjective inequalities).
 
