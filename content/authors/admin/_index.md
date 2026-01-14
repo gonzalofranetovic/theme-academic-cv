@@ -86,15 +86,11 @@ social:
 highlight_name: true
 ---
 
-I am Gonzalo, a **Postdoctoral Researcher** at the **[Laboratory for the Computational Analysis of Egonetworks, Social Cohesion, and Exclusion (COALESCE Lab)](http://coalesce-lab.com/en)** at the **[Universitat Autònoma de Barcelona](https://www.uab.cat/)**. 
+I am Gonzalo, a **Postdoctoral Researcher** at the [Laboratory for the Computational Analysis of Egonetworks, Social Cohesion, and Exclusion (COALESCE Lab)](http://coalesce-lab.com/en) at the [Universitat Autònoma de Barcelona](https://www.uab.cat/). My research examines how people understand social inequalities and how these are reproduced, reinforced, or contested through social relationships, combining **social stratification, distributive justice, and social network analysis**.
 
-**My research examines how people understand social inequalities and how these are reproduced, reinforced, or contested through social relationships.** I focus on both **social stratification** (objective inequalities) and **distributive justice research** (subjective inequalities).
+I completed my [PhD in Sociology and Methodology of Social Research](https://www.unimi.it/en/education/postgraduate-and-continuing-education-programmes/doctoral-programmes-phd/ay-2024/2025-sociology-and-methodology-social-research) at the [University of Milan](https://www.unimi.it/en), where I studied **how the socioeconomic composition of people’s social environments shapes their attitudes towards inequality**, with particular attention to personal networks and socializing institutions such as schools and neighbourhoods.
 
-I completed my **[PhD in Sociology and Methodology of Social Research](https://www.unimi.it/en/education/postgraduate-and-continuing-education-programmes/doctoral-programmes-phd/ay-2024/2025-sociology-and-methodology-social-research)** at the **[University of Milan](https://www.unimi.it/en)**, where I examined **how the socioeconomic composition of individuals' social environments shapes their attitudes towards inequality**, with an emphasis on personal networks and socializing institutions like schools and neighborhoods. I addressed this through cross-country data, complex network methods, and a life course perspective, analyzing variations across social positions.
-
-You can find more about my [publications](/#publications), [work in progress](/#projects), and [teaching](/#teaching) on this site.
-
-**Feel free to reach out if you’d like to connect, collaborate, or discuss research!**
+You can find more about my [publications](/#publications), [work in progress](/#projects), and [teaching](/#teaching) on this site. **Feel free to reach out if you’d like to connect, collaborate, or discuss research.**
 
 {{% staticref "uploads/FRANETOVIC_Gonzalo_CV.pdf" "newtab" %}}<strong>Download my CV</strong>{{% /staticref %}}
 
