@@ -31,7 +31,7 @@ featured: true
 # links:
 #- name: "Website"
 #  url: "https://www.cambridge.org/core/journals/network-science/article/consolidation-and-change-exploring-the-impact-of-anger-and-network-dynamics-on-inequality-belief-systems/95BDE98E87DC70F94C80C253C27D293E"
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0049089X26000827/pdfft?md5=a2480627c456df5a2e9c0db8d76fc595&pid=1-s2.0-S0049089X26000827-main.pdf/consolidation-and-change-exploring-the-impact-of-anger-and-network-dynamics-on-inequality-belief-systems.pdf
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0049089X26000827/pdfft?md5=a2480627c456df5a2e9c0db8d76fc595&pid=1-s2.0-S0049089X26000827-main.pdf/
 url_code: 'https://github.com/gonzalofranetovic/catalysts_and_buffers'
 
 # Featured image
