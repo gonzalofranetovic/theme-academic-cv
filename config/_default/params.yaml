@@ -98,7 +98,7 @@ features:
       show_logo: false
   map:
     provider: 'mapnik'
-    api_key: ''
+    api_key: '12345'
     zoom: 15
 
 # Extensions
