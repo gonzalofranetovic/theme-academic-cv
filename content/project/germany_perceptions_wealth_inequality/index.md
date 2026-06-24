@@ -1,11 +1,13 @@
 ---
-title: "Who, but also how many: The influence of socioeconomic composition and size of personal networks on perceptions and beliefs about inequality"
+title: "Disentangling Perceptions of Wealth Inequality: Subjective Estimations, Social Determinants and Political Consequences."
 
 authors:
 - admin
-- Miranda Lubbers
+- Laila Schmitt
+- Hannah Massenbauer
+- Clara Löffler
 
-date: "2024-07-03"
+date: "2026-06-24"
 
 
 tags:

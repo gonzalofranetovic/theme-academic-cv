@@ -1,5 +1,5 @@
 ---
-title: A life course approach to attitudes towards inequality - The influence of school and neighborhood socioeconomic composition
+title: "A life course approach to attitudes towards inequality: The influence of school and neighborhood socioeconomic composition"
 authors:
 - admin
 - Renzo Carriero

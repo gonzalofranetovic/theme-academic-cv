@@ -1,11 +1,12 @@
 ---
-title: "Who, but also how many: The influence of socioeconomic composition and size of personal networks on perceptions and beliefs about inequality"
+title: "When Work Doesn’t Pay as Expected: The Stratification Mismatch in Post-Industrial Societies. A Euro-Latin American Comparison."
 
 authors:
 - admin
-- Miranda Lubbers
+- Renata Semenza
+- Simone Sarti
 
-date: "2024-07-03"
+date: "2026-06-24"
 
 
 tags:

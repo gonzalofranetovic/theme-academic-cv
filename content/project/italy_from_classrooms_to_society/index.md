@@ -1,13 +1,18 @@
 ---
-title: From social networks to society - A cross-national analysis of how acquaintances’ diversity and status shape attitudes towards inequality
+title: "From Classrooms to Society: Network Segregation in School Friendships and Attitudes towards Inequality"
+
 authors:
 - admin
+- Simona Guglielmi
+- Renzo Carriero
 
-date: "2024-07-02"
+date: "2026-06-24"
+
 
 tags:
 #  - Source Themes
 featured: true
+
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
