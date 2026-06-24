@@ -153,8 +153,8 @@ sections:
         netlify:
           captcha: false
       address:
-        street: Avinguda de Serragalliners, 112, Research Module A
-        city: Cerdanyola del Vallès
+        street: Módul de Recerca A (MRA), Cerdanyola del Vallès
+        city: Barcelona
         region: Catalonia
         postcode: '08193'
         country: Spain
