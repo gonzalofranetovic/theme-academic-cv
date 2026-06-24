@@ -153,7 +153,7 @@ sections:
         netlify:
           captcha: false
       address:
-        street: Avinguda de Serragalliners, 112, Research Module A, UAB University Campus
+        street: Avinguda de Serragalliners, 112, Research Module A
         city: Cerdanyola del Vallès
         region: Catalonia
         postcode: '08193'
