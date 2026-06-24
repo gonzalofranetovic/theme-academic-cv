@@ -1,5 +1,5 @@
 ---
-title: "Smoke in the Network: Stratification, Social Exposure, and Smoking Behaviour in a Local Community"
+title: "Smoke in the network: Stratification, social exposure, and smoking behaviour in a local community"
 
 authors:
 - admin
