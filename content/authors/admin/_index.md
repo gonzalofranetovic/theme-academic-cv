@@ -21,7 +21,7 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Universitat Autònoma de Barcelona
+  - name: Autonomous University of Barcelona
     url: https://www.uab.cat/
 
 # Short bio (displayed in user profile at end of posts)
@@ -42,10 +42,10 @@ education:
       institution: University of Milan
       year: 2025
     - course: MA in Sociology
-      institution: Pontificia Universidad Católica de Chile
+      institution: Pontifical Catholic University of Chile
       year: 2018
     - course: BA in Sociology
-      institution: Pontificia Universidad Católica de Chile
+      institution: Pontifical Catholic University of Chile
       year: 2014
 
 
@@ -86,7 +86,7 @@ social:
 highlight_name: true
 ---
 
-I am Gonzalo, a **Postdoctoral Researcher** at the [Laboratory for the Computational Analysis of Egonetworks, Social Cohesion, and Exclusion (COALESCE Lab)](http://coalesce-lab.com/en) at the [Universitat Autònoma de Barcelona](https://www.uab.cat/). My research examines how people understand social inequalities and how these are reproduced, reinforced, or contested through social relationships, combining **social stratification, distributive justice, and social network analysis**.
+I am Gonzalo, a **Postdoctoral Researcher** at the [Laboratory for the Computational Analysis of Egonetworks, Social Cohesion, and Exclusion (COALESCE Lab)](http://coalesce-lab.com/en) at the [Autonomous University of Barcelona](https://www.uab.cat/). My research examines how people understand social inequalities and how these are reproduced, reinforced, or contested through social relationships, combining **social stratification, distributive justice, and social network analysis**.
 
 I completed my [PhD in Sociology and Methodology of Social Research](https://www.unimi.it/en/education/postgraduate-and-continuing-education-programmes/doctoral-programmes-phd/ay-2024/2025-sociology-and-methodology-social-research) at the [University of Milan](https://www.unimi.it/en), where I studied **how the socioeconomic composition of people’s social environments shapes their attitudes towards inequality**, with particular attention to personal networks and socializing institutions such as schools and neighbourhoods.
 
