@@ -98,7 +98,7 @@ features:
       show_logo: false
 hugoblox:
   maps:
-    provider: ''
+    provider: osm
     api_key: ''
     zoom: 15
 
