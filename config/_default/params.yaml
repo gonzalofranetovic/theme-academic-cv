@@ -96,11 +96,10 @@ features:
       api_key: ''
       index_name: ''
       show_logo: false
-hugoblox:
-  maps:
-    provider: osm
-    api_key: ''
-    zoom: 15
+map:
+  provider: 'mapnik' # Options: 'google', 'mapnik', or 'mapbox'
+  api_key: ''       # Required if using Google or Mapbox
+  zoom: 15          # Default zoom level
 
 # Extensions
 
