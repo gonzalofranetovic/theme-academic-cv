@@ -1,5 +1,5 @@
 ---
-title: "When Work Doesn’t Pay as Expected: The Stratification Mismatch in Post-Industrial Societies. A Euro-Latin American Comparison."
+title: "When work doesn’t pay as expected: The stratification mismatch in post-industrial societies. A Euro-Latin American comparison."
 
 authors:
 - admin

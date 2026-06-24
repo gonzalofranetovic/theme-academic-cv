@@ -1,5 +1,5 @@
 ---
-title: "Disentangling Perceptions of Wealth Inequality: Subjective Estimations, Social Determinants and Political Consequences."
+title: "Disentangling perceptions of wealth inequality: Subjective estimations, social determinants and political consequences."
 
 authors:
 - admin

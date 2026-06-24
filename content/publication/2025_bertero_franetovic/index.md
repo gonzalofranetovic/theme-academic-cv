@@ -27,7 +27,7 @@ summary: This study examines inequality belief systems in the U.S. using data fr
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 #- name: "Website"

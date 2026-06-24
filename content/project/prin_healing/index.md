@@ -1,10 +1,11 @@
 ---
-title: "From classrooms to society: Network segregation in school friendships and attitudes towards inequality"
+title: "Smoke in the Network: Stratification, Social Exposure, and Smoking Behaviour in a Local Community"
 
 authors:
 - admin
-- Simona Guglielmi
-- Renzo Carriero
+- David Consolazio
+- Marco Terraneo
+- Simone Sarti
 
 date: "2026-06-24"
 

@@ -28,7 +28,7 @@ summary:  This article constitutes the first application of the attitude network
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
