@@ -152,17 +152,17 @@ sections:
         provider: netlify
         netlify:
           captcha: false
-    design:
+      address:
+        street: Avinguda de Serragalliners, 112, Research Module A, UAB University Campus
+        city: Cerdanyola del Vallès
+        region: Catalonia
+        postcode: '08193'
+        country: Spain
+        country_code: ES
+        latitude: '41.2930' 
+        longitude: '2.0806'
+      design:
       columns: '2'
-address:
-  street: Avinguda de Serragalliners, 112, Research Module A, UAB University Campus
-  city: Cerdanyola del Vallès
-  region: Catalonia
-  postcode: '08193'
-  country: Spain
-  country_code: ES
-  latitude: '41.2930' 
-  longitude: '2.0806'
   # - block: contact
   #   id: contact
   #   content:
