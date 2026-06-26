@@ -77,7 +77,7 @@ sections:
       columns: '2'
       view: card
 
-  - block: portfolio
+    - block: portfolio
     id: teaching
     content:
       title: Teaching
@@ -98,7 +98,7 @@ sections:
     design:
       columns: '2'
       view: card
-      flip_alt_rows: true
+      flip_alt_rows: false
       sort_by: 'Date'
       sort_ascending: true
 
@@ -126,7 +126,7 @@ sections:
           tag: 2022_or_before
     design:
       columns: '2'
-      view: showcase
+      view: card
       flip_alt_rows: false
 
   - block: contact
