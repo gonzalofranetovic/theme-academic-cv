@@ -50,7 +50,7 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: true
+        featured_only: false
     design:
       columns: '2'
       view: card
@@ -61,7 +61,7 @@ sections:
       filters:
         folders:
           - project
-        featured_only: true
+        featured_only: false
       sort_by: 'Date'
       sort_ascending: true
     design:
