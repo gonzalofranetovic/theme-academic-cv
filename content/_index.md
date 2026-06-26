@@ -124,7 +124,7 @@ sections:
           tag: 2022_or_before
     design:
       columns: '2'
-      view: showcase
+      view: card
       flip_alt_rows: false
 
   - block: contact
