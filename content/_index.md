@@ -1,8 +1,8 @@
----
-# Leave the homepage title empty to use the site title
+---#
 title: ''
 date: 2022-10-24
 type: landing
+
 
 sections:
   - block: hero
@@ -13,10 +13,10 @@ sections:
         filename: hero-academic.png
       cta:
         label: '**Get Started**'
-        url: [https://hugoblox.com/templates/](https://hugoblox.com/templates/)
+        url: https://hugoblox.com/templates/
       cta_alt:
         label: Ask a question
-        url: [https://discord.gg/z8wNYzb](https://discord.gg/z8wNYzb)
+        url: https://discord.gg/z8wNYzb
       cta_note:
         label: >-
           <div style="text-shadow: none;"><a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Hugo Blox Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/HugoBlox/theme-academic-cv" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
@@ -45,62 +45,68 @@ sections:
       title: Welcome!
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: collection
-    id: publications
-    content:
-      title: Publications
-      count: 6
-      archive:
-        enable: true
-        text: See all
-        link: publication/
-      filters:
-        folders:
-          - publication
-        featured_only: true
-      sort_by: 'Date'
-      sort_ascending: false
-    design:
-      columns: '2'
-      view: card
+ - block: collection
+  id: publications
+  content:
+    title: Publications
+    count: 6
+    archive:
+      enable: true
+      text: See all
+      link: publication/
+    filters:
+      folders:
+        - publication
+      featured_only: true
+  design:
+    columns: '2'
+    view: card
 
-  - block: collection
-    id: projects
-    content:
-      title: Work in Progress
-      filters:
-        folders:
-          - project
-        featured_only: false
-      sort_by: 'Date'
-      sort_ascending: true
-    design:
-      columns: '2'
-
-  - block: portfolio
-    id: teaching
-    content:
-      title: Teaching
-      filters:
-        folders:
-          - teaching
-        featured_only: true
-      default_button_index: 0
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Assistant Professor
-          tag: Assistant_Professor
-        - name: Teaching Assistant
-          tag: Teaching_Assistant
-        - name: Instructor
-          tag: Instructor
-    design:
-      columns: '2'
-      view: card
-      flip_alt_rows: true
-      sort_by: 'Date'
-      sort_ascending: true
+- block: collection
+  id: projects
+  content:
+    title: Work in Progress
+    count: 0
+    filters:
+      folders:
+        - project
+      featured_only: false
+    sort_by: 'Date'
+    sort_ascending: true
+  design:
+    columns: '2'
+  - block: portfolio
+    id: teaching
+    content:
+      title: Teaching
+      filters:
+        folders:
+          - teaching
+        featured_only: true
+              # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      default_button_index: 0
+      # Filter toolbar (optional).
+      # Add or remove as many filters (`filter_button` instances) as you like.
+      # To show all items, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the toolbar, delete the entire `filter_button` block.
+      buttons:
+        - name: All
+          tag: '*'
+        - name: Assistant Professor
+          tag: Assistant_Professor
+        - name: Teaching Assistant
+          tag: Teaching_Assistant
+        - name: Instructor
+          tag: Instructor
+      design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
+      view: card
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: true
+      sort_by: 'Date'
+      sort_ascending: true
   - block: portfolio
     id: talks
     content:
