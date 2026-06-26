@@ -66,7 +66,6 @@ sections:
     id: projects
     content:
       title: Work in Progress
-      count: 0
       filters:
         folders:
           - project
@@ -75,9 +74,8 @@ sections:
       sort_ascending: true
     design:
       columns: '2'
-      view: card
 
-    - block: portfolio
+  - block: portfolio
     id: teaching
     content:
       title: Teaching
@@ -98,7 +96,7 @@ sections:
     design:
       columns: '2'
       view: card
-      flip_alt_rows: false
+      flip_alt_rows: true
       sort_by: 'Date'
       sort_ascending: true
 
@@ -126,7 +124,7 @@ sections:
           tag: 2022_or_before
     design:
       columns: '2'
-      view: card
+      view: showcase
       flip_alt_rows: false
 
   - block: contact
