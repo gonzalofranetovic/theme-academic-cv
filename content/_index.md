@@ -71,7 +71,7 @@ sections:
       sort_ascending: true
     design:
       columns: '2'
-  - block: portfolio
+  - block: collection
     id: teaching
     content:
       title: Teaching
