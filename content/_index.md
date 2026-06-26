@@ -47,10 +47,14 @@ sections:
     content:
       title: Publications
       count: 6
-      filters:
-        folders:
-          - publication
-        featured_only: false
+      archive:
+        enable: true
+        text: See all
+        link: publication/
+    filters:
+      folders:
+        - publication
+      featured_only: true
     design:
       columns: '2'
       view: card
@@ -58,14 +62,15 @@ sections:
     id: projects
     content:
       title: Work in Progress
-      filters:
-        folders:
-          - project
-        featured_only: false
-      sort_by: 'Date'
-      sort_ascending: true
+      count: 0
+    filters:
+      folders:
+        - project
+    sort_by: Date
+    sort_ascending: true
     design:
       columns: '2'
+      view: card
   - block: portfolio
     id: teaching
     content:
