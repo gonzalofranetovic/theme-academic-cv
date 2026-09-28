@@ -1,15 +1,17 @@
 ---
-title: "A life course approach to attitudes towards inequality: The influence of school and neighborhood socioeconomic composition"
+title: "Patterns of Social Segregation in Europe: Social Class and Social Cohesion Regimes across Socioeconomic, Migrant, Religious, and Gender Divides"
+
 authors:
 - admin
-- Renzo Carriero
-- Simona Guglielmi
+- Miranda Lubbers
 
-date: "2024-07-04"
+date: "2026-09-28"
+
 
 tags:
 #  - Source Themes
 featured: true
+
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -35,5 +37,4 @@ image:
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-
 
