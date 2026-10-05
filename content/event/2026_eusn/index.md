@@ -11,7 +11,7 @@ abstract: "Patterns of Social Segregation in Europe: Social Class and Social Coh
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-08-'
+date: '2026-08-14'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
